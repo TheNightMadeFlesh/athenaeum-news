@@ -99,7 +99,7 @@ def main():
 
     unique_articles = {}
 
-    for article in all_articless:
+    for article in all_articles:
         unique_articles[article["id"]] = article
 
     articles = list(unique_articles.values())

@@ -1,21 +1,26 @@
 import json
 import calendar
 import hashlib
-import os
 from datetime import datetime, timezone
-from email.utils import parsedate_to_datetime
 
 import feedparser
 import requests
 
 
-MAX_HEADLINES = 30
+# ----------------------------------------
+# CONFIGURATION
+# ----------------------------------------
 
+MAX_HEADLINES = 30
 MAX_PER_SOURCE = 3
 
 FEEDS_FILE = "feeds.json"
 OUTPUT_FILE = "headlines.json"
 
+
+# ----------------------------------------
+# ARTICLE DATE
+# ----------------------------------------
 
 def get_date(entry):
 
@@ -26,6 +31,7 @@ def get_date(entry):
 
     if published:
         timestamp = calendar.timegm(published)
+
         return datetime.fromtimestamp(
             timestamp,
             tz=timezone.utc
@@ -33,6 +39,10 @@ def get_date(entry):
 
     return datetime.now(timezone.utc).isoformat()
 
+
+# ----------------------------------------
+# RETRIEVE RSS FEED
+# ----------------------------------------
 
 def fetch_feed(source):
 
@@ -87,59 +97,72 @@ def fetch_feed(source):
     return articles
 
 
+# ----------------------------------------
+# MAIN AGGREGATOR
+# ----------------------------------------
+
 def main():
+
+    # Load RSS source configuration
 
     with open(FEEDS_FILE, "r", encoding="utf-8") as file:
         config = json.load(file)
 
     all_articles = []
 
+    # Retrieve articles from all sources
+
     for source in config["feeds"]:
         all_articles.extend(fetch_feed(source))
 
-    # Remove duplicate article URLs
+    # ------------------------------------
+    # REMOVE DUPLICATES
+    # ------------------------------------
 
     unique_articles = {}
 
     for article in all_articles:
-    unique_articles[article["id"]] = article
+        unique_articles[article["id"]] = article
 
     articles = list(unique_articles.values())
 
-
-# Sort all articles newest first
+    # ------------------------------------
+    # SORT NEWEST FIRST
+    # ------------------------------------
 
     articles.sort(
         key=lambda article: article["published"],
         reverse=True
     )
 
-
-# Apply source balancing
+    # ------------------------------------
+    # APPLY SOURCE BALANCING
+    # ------------------------------------
 
     source_counts = {}
-
     balanced_articles = []
 
     for article in articles:
 
-    source = article["source"]
+        source = article["source"]
 
-    current_count = source_counts.get(source, 0)
+        current_count = source_counts.get(source, 0)
 
-    if current_count < MAX_PER_SOURCE:
+        if current_count < MAX_PER_SOURCE:
 
-        balanced_articles.append(article)
+            balanced_articles.append(article)
 
-        source_counts[source] = current_count + 1
+            source_counts[source] = current_count + 1
 
-
-# Keep the newest headlines from the balanced pool
+    # ------------------------------------
+    # APPLY OVERALL HEADLINE LIMIT
+    # ------------------------------------
 
     articles = balanced_articles[:MAX_HEADLINES]
 
-
-# Display source distribution in GitHub Actions log
+    # ------------------------------------
+    # DISPLAY SOURCE DISTRIBUTION
+    # ------------------------------------
 
     print("\nFinal headline distribution:")
 
@@ -147,19 +170,32 @@ def main():
 
     for article in articles:
 
-    source = article["source"]
+        source = article["source"]
 
-    final_counts[source] = final_counts.get(source, 0) + 1
+        final_counts[source] = (
+            final_counts.get(source, 0) + 1
+        )
 
     for source, count in sorted(final_counts.items()):
 
-    print(f"{source}: {count}")
-    
-    # Preserve previous data if every feed fails
+        print(f"{source}: {count}")
+
+    # ------------------------------------
+    # PRESERVE PREVIOUS DATA IF EMPTY
+    # ------------------------------------
 
     if not articles:
-        print("No articles retrieved. Keeping previous JSON.")
+
+        print(
+            "No articles retrieved. "
+            "Keeping previous JSON."
+        )
+
         return
+
+    # ------------------------------------
+    # GENERATE JSON OUTPUT
+    # ------------------------------------
 
     output = {
         "updated": datetime.now(
@@ -182,8 +218,15 @@ def main():
             indent=2
         )
 
-    print(f"Saved {len(articles)} headlines.")
+    print(
+        f"\nSuccessfully saved "
+        f"{len(articles)} headlines."
+    )
 
+
+# ----------------------------------------
+# EXECUTE
+# ----------------------------------------
 
 if __name__ == "__main__":
     main()

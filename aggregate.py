@@ -99,29 +99,29 @@ def main():
 
     # Remove duplicate article URLs
 
-unique_articles = {}
+    unique_articles = {}
 
-for article in all_articles:
+    for article in all_articles:
     unique_articles[article["id"]] = article
 
-articles = list(unique_articles.values())
+    articles = list(unique_articles.values())
 
 
 # Sort all articles newest first
 
-articles.sort(
-    key=lambda article: article["published"],
-    reverse=True
-)
+    articles.sort(
+        key=lambda article: article["published"],
+        reverse=True
+    )
 
 
 # Apply source balancing
 
-source_counts = {}
+    source_counts = {}
 
-balanced_articles = []
+    balanced_articles = []
 
-for article in articles:
+    for article in articles:
 
     source = article["source"]
 
@@ -136,22 +136,22 @@ for article in articles:
 
 # Keep the newest headlines from the balanced pool
 
-articles = balanced_articles[:MAX_HEADLINES]
+    articles = balanced_articles[:MAX_HEADLINES]
 
 
 # Display source distribution in GitHub Actions log
 
-print("\nFinal headline distribution:")
+    print("\nFinal headline distribution:")
 
-final_counts = {}
+    final_counts = {}
 
-for article in articles:
+    for article in articles:
 
     source = article["source"]
 
     final_counts[source] = final_counts.get(source, 0) + 1
 
-for source, count in sorted(final_counts.items()):
+    for source, count in sorted(final_counts.items()):
 
     print(f"{source}: {count}")
     

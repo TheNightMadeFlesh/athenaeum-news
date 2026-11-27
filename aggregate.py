@@ -11,6 +11,8 @@ import requests
 
 MAX_HEADLINES = 30
 
+MAX_PER_SOURCE = 3
+
 FEEDS_FILE = "feeds.json"
 OUTPUT_FILE = "headlines.json"
 
@@ -97,24 +99,62 @@ def main():
 
     # Remove duplicate article URLs
 
-    unique_articles = {}
+unique_articles = {}
 
-    for article in all_articles:
-        unique_articles[article["id"]] = article
+for article in all_articles:
+    unique_articles[article["id"]] = article
 
-    articles = list(unique_articles.values())
+articles = list(unique_articles.values())
 
-    # Sort newest first
 
-    articles.sort(
-        key=lambda article: article["published"],
-        reverse=True
-    )
+# Sort all articles newest first
 
-    # Keep latest headlines
+articles.sort(
+    key=lambda article: article["published"],
+    reverse=True
+)
 
-    articles = articles[:MAX_HEADLINES]
 
+# Apply source balancing
+
+source_counts = {}
+
+balanced_articles = []
+
+for article in articles:
+
+    source = article["source"]
+
+    current_count = source_counts.get(source, 0)
+
+    if current_count < MAX_PER_SOURCE:
+
+        balanced_articles.append(article)
+
+        source_counts[source] = current_count + 1
+
+
+# Keep the newest headlines from the balanced pool
+
+articles = balanced_articles[:MAX_HEADLINES]
+
+
+# Display source distribution in GitHub Actions log
+
+print("\nFinal headline distribution:")
+
+final_counts = {}
+
+for article in articles:
+
+    source = article["source"]
+
+    final_counts[source] = final_counts.get(source, 0) + 1
+
+for source, count in sorted(final_counts.items()):
+
+    print(f"{source}: {count}")
+    
     # Preserve previous data if every feed fails
 
     if not articles:

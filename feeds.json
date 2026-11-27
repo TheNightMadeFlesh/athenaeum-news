@@ -48,5 +48,10 @@
       "name": "Bon Appetit",
       "url": "https://www.bonappetit.com/feed/rss"
     }
+    {
+      "name": "New Scientist",
+      "url": "https://www.newscientist.com/section/news/feed/"
+    }
+    
   ]
 }

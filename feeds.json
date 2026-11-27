@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "name": "BBC News",
+      "url": "https://feeds.bbci.co.uk/news/rss.xml"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/uk/rss"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index"
+    }
+    {
+      "name": "The Wild Hunt",
+      "url": "https://wildhunt.org/feed"
+    }
+    {
+      "name": "The Digital Ambler",
+      "url": "https://digitalambler.com/feed/"
+    }
+    {
+      "name": "The Daily Grail",
+      "url": "https://www.dailygrail.com/feed/"
+    }
+    {
+      "name": "Esquire",
+      "url": "http://www.esquire.com/blogs/culture/culture-rss"
+    }
+    {
+      "name": "Associated Press",
+      "url": "https://feedx.net/rss/ap.xml"
+    }
+    {
+      "name": "Met Office - UK Severe Weather Warnings",
+      "url": "https://www.metoffice.gov.uk/public/data/PWSCache/WarningsRSS/Region/UK"
+    }
+    {
+      "name": "The National Archives - News",
+      "url": "https://www.nationalarchives.gov.uk/rss/news.xml"
+    }
+    {
+      "name": "Epicurious",
+      "url": "https://www.epicurious.com/feed/rss"
+    }
+    {
+      "name": "Bon Appetit",
+      "url": "https://www.bonappetit.com/feed/rss"
+    }
+  ]
+}

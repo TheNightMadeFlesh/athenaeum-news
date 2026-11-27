@@ -1,0 +1,43 @@
+Feeds to possibly add to the feeds.json:
+"The Artist’s Notebook" title="The Artist’s Notebook" type="rss" xmlUrl="https://www.lazaruscorporation.co.uk/feeds/blogs/artists-notebook/format/rss" htmlUrl="https://www.lazaruscorporation.co.uk/blogs/artists-notebook"/>
+"The Old Weird Albion" title="The Old Weird Albion" type="rss" xmlUrl="https://oldweirdalbion.wordpress.com/feed/" htmlUrl="https://oldweirdalbion.wordpress.com/"/>
+"Folk Horror Revival" title="Folk Horror Revival" type="rss" xmlUrl="https://folkhorrorrevival.com/feed/" htmlUrl="https://folkhorrorrevival.com/"/>
+"The Haunted Generation" title="The Haunted Generation" type="rss" xmlUrl="https://hauntedgeneration.co.uk/feed/" htmlUrl="https://hauntedgeneration.co.uk/"/>
+"A Year in the Country" title="A Year in the Country" type="rss" xmlUrl="https://ayearinthecountry.co.uk/feed/" htmlUrl="https://ayearinthecountry.co.uk/"/>
+"Celluloid Wicker Man" title="Celluloid Wicker Man" type="rss" xmlUrl="https://celluloidwickerman.com/feed/" htmlUrl="https://celluloidwickerman.com/"/>
+"Psychogeographic Review" title="Psychogeographic Review" type="rss" xmlUrl="https://psychogeographicreview.com/feed/" htmlUrl="https://psychogeographicreview.com/"/>
+"Wyrd Britain" title="Wyrd Britain" type="rss" xmlUrl="https://wyrdbritain.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://wyrdbritain.blogspot.com/"/>
+"{ feuilleton }" title="{ feuilleton }" type="rss" xmlUrl="https://www.johncoulthart.com/feuilleton/feed/" htmlUrl="https://www.johncoulthart.com/feuilleton/"/>
+"Weird Wiltshire" title="Weird Wiltshire" type="rss" xmlUrl="https://weird-wiltshire.co.uk/feed/" htmlUrl="https://weird-wiltshire.co.uk/"/>
+"Mat Pringle" title="Mat Pringle" type="rss" xmlUrl="https://matpringle.co.uk/rss" htmlUrl="https://matpringle.co.uk/"/>
+"Somewhere Without Horizons" title="Somewhere Without Horizons" type="rss" xmlUrl="https://verityholloway.com/?feed=rss2" htmlUrl="https://verityholloway.com/"/>
+"Orbific Weblog" title="Orbific Weblog" type="rss" xmlUrl="https://orbific.com/feed/" htmlUrl="https://orbific.com/"/>
+"Hopeless Vendetta" title="Hopeless Vendetta" type="rss" xmlUrl="https://hopeless-maine.co.uk/feed/" htmlUrl="https://hopeless-maine.co.uk/"/>
+"The M John Harrison blog" title="The M John Harrison blog" type="rss" xmlUrl="https://ambientehotel.wordpress.com/feed/" htmlUrl="https://ambientehotel.wordpress.com/"/>
+
+https://strangehorizons.com/wordpress/feed/
+
+https://www.darkreading.com/rss.xml
+
+https://nautil.us/feed
+
+https://www.atlasobscura.com/feeds/latest
+
+https://www.openculture.com/feed
+
+https://www.britishmuseum.org/articles/blog/feed
+
+https://www.vam.ac.uk/blog/feed
+
+https://museumofwitchcraftandmagic.co.uk/news/feed/
+
+https://unquietthings.com/feed/
+
+https://www.culturaobscura.com/feed/
+
+https://www.technoccult.net/feed/
+
+https://www.occultlibrary.org/blog?format=rss
+
+https://www.wickedobscura.com/blog?format=rss
+

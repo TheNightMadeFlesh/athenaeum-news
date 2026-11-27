@@ -1,55 +1,83 @@
 {
-  "updated": "2026-11-27T02:06:58.200035+00:00",
+  "updated": "2026-11-27T10:49:47.254356+00:00",
   "count": 30,
   "articles": [
     {
-      "id": "db7b8939c571203b0339bc90ce03adcd0075a9c2d0f5f4edbdd410679cd457b5",
-      "source": "Met Office - UK Severe Weather Warnings",
-      "title": "Yellow warning of ice affecting Yorkshire & Humber",
-      "url": "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings#?date=2026-11-27&id=9596cb76-cbcc-4b41-ae20-f68f10de2cef&referrer=rss",
-      "published": "2026-11-27T02:06:55.719045+00:00"
-    },
-    {
-      "id": "070fa6bfc84f4bc9173176e24f4dfe3f2863006fdd7a17f26d104b312ff18c3f",
+      "id": "2933e986cd0b14cc5e72a434fa568d5e0c61152c66a1657112a8f174793511fc",
       "source": "The Guardian",
-      "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
-      "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
-      "published": "2026-11-27T01:41:50+00:00"
+      "title": "Macron condemns Marseille violence after Levski fans hospitalised; Premier League latest – football live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
+      "published": "2026-11-27T10:46:53+00:00"
     },
     {
-      "id": "15cbe19640541e825b919e173b712dd529c9fd5cd316da09560202058a1ced59",
-      "source": "BBC News",
-      "title": "UK papers: 'Scores' of Labour MPs oppose Rosebank and 'Shameless Huw'",
-      "url": "https://www.bbc.co.uk/news/articles/cm62p75vwn9xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T01:23:47+00:00"
-    },
-    {
-      "id": "34a04aa6806b5c9c8289deb0caabecd29a839ede44011e5b8b1692bdc549c01a",
+      "id": "7179e5af03416cd16b28a10d6ccb124a5b1586cf535c835282846dd570862ff9",
       "source": "The Guardian",
-      "title": "Threat from China looms large over Taiwan’s local elections",
-      "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
-      "published": "2026-11-27T01:00:49+00:00"
+      "title": "Australia v England: third men’s Twenty20 international – live",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/27/australia-v-england-third-mens-twenty20-international-live",
+      "published": "2026-11-27T10:46:17+00:00"
     },
     {
-      "id": "084cf0ac26b9ca2071f471bef55622331f96b6b00d179f29982ef2fa008face8",
-      "source": "BBC News",
-      "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
-      "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T00:58:49+00:00"
-    },
-    {
-      "id": "5dbdf30e0c098658ff375e53e766a50a597d7fe1a75b75775d174f2967a7f31a",
-      "source": "BBC News",
-      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T00:54:45+00:00"
-    },
-    {
-      "id": "cb58209d3c4b934d6042cc20e10bc061e7ca4913658d1e38c1fd418c88179b1b",
+      "id": "b03abfd47b10964341babe6fe7cdee337ea568556fa88d358db2fc44f15b7526",
       "source": "The Guardian",
-      "title": "No sanctions and no recrimination: Cricket Australia ball tampering forum to include 2017-18 Ashes series",
-      "url": "https://www.theguardian.com/sport/2026/nov/27/cricket-australia-ball-tampering-forum-inquiry-2017-2018-ashes-series-ntwnfb",
-      "published": "2026-11-27T00:51:00+00:00"
+      "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+      "published": "2026-11-27T10:37:39+00:00"
+    },
+    {
+      "id": "a38c1440c2b10cd04c72610c661ab1f6e9bafb8703b14f69624053a5e8248317",
+      "source": "BBC News",
+      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T10:26:28+00:00"
+    },
+    {
+      "id": "340af565625916d0ce3ecb50d94abc5993f8ff36c41e364d5c344c811bad079e",
+      "source": "BBC News",
+      "title": "Clashes mar European games as Macron condemns violence",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T10:24:24+00:00"
+    },
+    {
+      "id": "553f337f7f1f98aa53d48a78a61fa23730f5a5da586b6e475cb0d958bfc775bb",
+      "source": "BBC News",
+      "title": "What we know about Department for Work and Pensions 'cyber incident'",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T10:13:08+00:00"
+    },
+    {
+      "id": "a0797d798a1179304c0d3fe97d26978e6542a4ceb79e1372307cd7b3f579b0a9",
+      "source": "Bon Appetit",
+      "title": "Black Friday Cookware Deals on the Forever Pieces We All Want (2026)",
+      "url": "https://www.bonappetit.com/story/black-friday-cookware-11-27-2026",
+      "published": "2026-11-27T09:33:00+00:00"
+    },
+    {
+      "id": "3c1662b1151843de771238d7dff598966906319df22749194789eed080d6bab4",
+      "source": "Bon Appetit",
+      "title": "The Best Black Friday Meal Kit Deals Offer Deep Discounts for Months (2026)",
+      "url": "https://www.bonappetit.com/story/black-friday-meal-delivery-deals-11-27-2026",
+      "published": "2026-11-27T09:16:00+00:00"
+    },
+    {
+      "id": "7ee323411c12489210e4a3a84f14d7f213859a1ba5b5189531ef8cf15bc4432a",
+      "source": "Bon Appetit",
+      "title": "Le Creuset’s Black Friday Sale Includes the Signature Dutch Oven, And It's Going Quickly",
+      "url": "https://www.bonappetit.com/story/black-friday-le-creuset-deals-11-27-2026",
+      "published": "2026-11-27T09:05:00+00:00"
+    },
+    {
+      "id": "d249369af23d2fd2a1a5573e65fac0ae75aac0712bd4e8a5ea7f7527d1a43ec5",
+      "source": "New Scientist",
+      "title": "Particles not seen before have been observed in a quantum simulator",
+      "url": "https://www.newscientist.com/article/2600979-particles-not-seen-before-have-been-observed-in-a-quantum-simulator/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "published": "2026-11-27T09:00:00+00:00"
+    },
+    {
+      "id": "bbfb1d37f2fb5fdab2085806d90077fa7644e455ba843a85aefe4490c75afacd",
+      "source": "Ars Technica",
+      "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+      "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+      "published": "2026-11-27T08:00:53+00:00"
     },
     {
       "id": "009cf54ea224b08f26b4a0017d8a1ec8229562f4557d47675be93d21e1fe0f2e",
@@ -80,20 +108,6 @@
       "published": "2026-11-26T12:15:42+00:00"
     },
     {
-      "id": "1fb96d1f02355e3a06969e340fc07a8807930e2ca6cf9c217f623226ff7d5d8e",
-      "source": "Ars Technica",
-      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
-      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
-      "published": "2026-11-26T12:00:14+00:00"
-    },
-    {
-      "id": "5000298f26e34f9f4fac8d2cc361dbe998f4048ec0aec9a37f8668395e41054f",
-      "source": "Bon Appetit",
-      "title": "Striped Malted Pound Cake",
-      "url": "https://www.bonappetit.com/recipe/striped-malted-pound-cake",
-      "published": "2026-11-26T12:00:00+00:00"
-    },
-    {
       "id": "79a041fbd1ebb5270ff54c289699453fd9b27ca8cd309c5874ef88053e7e2f9a",
       "source": "New Scientist",
       "title": "Ultracold atoms could help unravel a major flaw in quantum theory",
@@ -101,25 +115,11 @@
       "published": "2026-11-26T12:00:00+00:00"
     },
     {
-      "id": "2a2a7b5823217075fde373ce65d1f6a574a2a725e2223479c9a4221130d417a7",
-      "source": "Bon Appetit",
-      "title": "Citrus Madeleines",
-      "url": "https://www.bonappetit.com/recipe/citrus-madeleines",
-      "published": "2026-11-26T11:00:00+00:00"
-    },
-    {
       "id": "91e6962bdebad4cc0b5c22c69804388d03f57e5a3a17322019f4b6a587f05277",
       "source": "The Daily Grail",
       "title": "News Briefs 26-11-2026",
       "url": "https://www.dailygrail.com/2026/11/news-briefs-26-11-2026/",
       "published": "2026-11-26T06:00:00+00:00"
-    },
-    {
-      "id": "8c2cd022181eb7178740431a5d25966c7c76ddbec14c588a11f19390d8eed383",
-      "source": "Bon Appetit",
-      "title": "The Ideal Thanksgiving Place Setting for Every Member of the Family",
-      "url": "https://www.bonappetit.com/story/thanksgiving-family-place-settings",
-      "published": "2026-11-25T22:24:10+00:00"
     },
     {
       "id": "69ad11d8f5860b2d1324c5f35c5796cdc323d715d2433352c02478014988fa7a",
@@ -148,13 +148,6 @@
       "title": "Seabird ‘spies’ could help spot ships that aren’t broadcasting their location",
       "url": "https://www.newscientist.com/article/2600830-seabird-spies-could-help-spot-ships-that-arent-broadcasting-their-location/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "published": "2026-11-25T19:00:00+00:00"
-    },
-    {
-      "id": "ac3e440a3284b1442acbbf0505988ae6102ceae07c646ca96eefdbed889c4ab9",
-      "source": "New Scientist",
-      "title": "AI’s stunning progress in maths shows how little we understand it",
-      "url": "https://www.newscientist.com/article/2600491-ais-stunning-progress-in-maths-shows-how-little-we-understand-it/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "published": "2026-11-25T18:00:00+00:00"
     },
     {
       "id": "81d2313a46af103a669d223ab7ba65773ea13894fef1b3cf1cff1a94a77005b3",
@@ -211,6 +204,13 @@
       "title": "Anchovy-Garlic Pasta",
       "url": "https://www.epicurious.com/recipes/food/views/ba-syn-4th-date-anchovy-garlic-pasta",
       "published": "2026-11-09T11:00:00+00:00"
+    },
+    {
+      "id": "4295726bf2d31d9512aecd4e61c773629ef25e5a12523051f39d9992d519715d",
+      "source": "The Digital Ambler",
+      "title": "A Flag for Hermeticism",
+      "url": "https://digitalambler.com/2026/10/22/a-flag-for-hermeticism/",
+      "published": "2026-10-22T20:16:04+00:00"
     }
   ]
 }

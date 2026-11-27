@@ -1,69 +1,104 @@
 {
-  "updated": "2026-11-27T10:49:47.254356+00:00",
+  "updated": "2026-11-27T19:56:24.322693+00:00",
   "count": 30,
   "articles": [
     {
-      "id": "2933e986cd0b14cc5e72a434fa568d5e0c61152c66a1657112a8f174793511fc",
-      "source": "The Guardian",
-      "title": "Macron condemns Marseille violence after Levski fans hospitalised; Premier League latest – football live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
-      "published": "2026-11-27T10:46:53+00:00"
-    },
-    {
-      "id": "7179e5af03416cd16b28a10d6ccb124a5b1586cf535c835282846dd570862ff9",
-      "source": "The Guardian",
-      "title": "Australia v England: third men’s Twenty20 international – live",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/27/australia-v-england-third-mens-twenty20-international-live",
-      "published": "2026-11-27T10:46:17+00:00"
-    },
-    {
-      "id": "b03abfd47b10964341babe6fe7cdee337ea568556fa88d358db2fc44f15b7526",
-      "source": "The Guardian",
-      "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-      "published": "2026-11-27T10:37:39+00:00"
-    },
-    {
-      "id": "a38c1440c2b10cd04c72610c661ab1f6e9bafb8703b14f69624053a5e8248317",
-      "source": "BBC News",
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T10:26:28+00:00"
-    },
-    {
-      "id": "340af565625916d0ce3ecb50d94abc5993f8ff36c41e364d5c344c811bad079e",
-      "source": "BBC News",
-      "title": "Clashes mar European games as Macron condemns violence",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T10:24:24+00:00"
-    },
-    {
-      "id": "553f337f7f1f98aa53d48a78a61fa23730f5a5da586b6e475cb0d958bfc775bb",
-      "source": "BBC News",
-      "title": "What we know about Department for Work and Pensions 'cyber incident'",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T10:13:08+00:00"
-    },
-    {
-      "id": "a0797d798a1179304c0d3fe97d26978e6542a4ceb79e1372307cd7b3f579b0a9",
+      "id": "6e15ea0f14381717be01af92969a290020726d772ea1fb60ebe69a60457cf48d",
       "source": "Bon Appetit",
-      "title": "Black Friday Cookware Deals on the Forever Pieces We All Want (2026)",
-      "url": "https://www.bonappetit.com/story/black-friday-cookware-11-27-2026",
-      "published": "2026-11-27T09:33:00+00:00"
+      "title": "Breville Oracle Jet Review: This Beginner-Friendly Espresso Machine Is $200 Off Right Now",
+      "url": "https://www.bonappetit.com/story/breville-oracle-jet-review",
+      "published": "2026-11-27T19:51:58+00:00"
     },
     {
-      "id": "3c1662b1151843de771238d7dff598966906319df22749194789eed080d6bab4",
-      "source": "Bon Appetit",
-      "title": "The Best Black Friday Meal Kit Deals Offer Deep Discounts for Months (2026)",
-      "url": "https://www.bonappetit.com/story/black-friday-meal-delivery-deals-11-27-2026",
-      "published": "2026-11-27T09:16:00+00:00"
+      "id": "fd1ba035825bfa9d7cfcdf8f979e37a53eb3d6c640e8a94648f70231cebda3d2",
+      "source": "BBC News",
+      "title": "Mercedes set pace in eventful Qatar second practice",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T19:50:06+00:00"
     },
     {
-      "id": "7ee323411c12489210e4a3a84f14d7f213859a1ba5b5189531ef8cf15bc4432a",
+      "id": "8e89210f7e322a3812bf000af16fcfafa08a957202d3922743399e95946eea32",
+      "source": "The Guardian",
+      "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
+      "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+      "published": "2026-11-27T19:45:51+00:00"
+    },
+    {
+      "id": "c05a8dea02928581979ca149b65c78aaa7b7d7b5d03d5c32ffdfaa155b01126c",
+      "source": "The Guardian",
+      "title": "Ireland v Australia: Nations Championship finals weekend – live",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/27/ireland-v-australia-nations-championship-finals-weekend-live",
+      "published": "2026-11-27T19:45:24+00:00"
+    },
+    {
+      "id": "d24a0f8df13b2a50fda30c767672025678fa8522b65e1ca226bb92186a783c3e",
+      "source": "The Guardian",
+      "title": "Nottingham Forest v Chelsea: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/27/nottingham-forest-v-chelsea-premier-league-live",
+      "published": "2026-11-27T19:41:49+00:00"
+    },
+    {
+      "id": "2f332085aaf3b72cef4ef89e9b20a6ef8bc4bd9530b9a5c49305f42c6f6c7a6c",
+      "source": "BBC News",
+      "title": "NHS Grampian publishes leaked report at centre of hospital scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gjdkdn2xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T19:25:06+00:00"
+    },
+    {
+      "id": "c986090956ef47804991fc8b0e31369ee9bfc5f75dd18fafcc08af98c44c97cf",
+      "source": "BBC News",
+      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T19:15:30+00:00"
+    },
+    {
+      "id": "02ae5ce9e9ae4c4c3ec55f5c8d845c3728562a8fd2637b7449acd710b7828470",
+      "source": "Ars Technica",
+      "title": "The best Black Friday deals Ars could find",
+      "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "published": "2026-11-27T17:05:37+00:00"
+    },
+    {
+      "id": "298dbdb3190adf21661da9a70ed530308d1f39bcdff008388b56ee754e2349f1",
       "source": "Bon Appetit",
-      "title": "Le Creuset’s Black Friday Sale Includes the Signature Dutch Oven, And It's Going Quickly",
-      "url": "https://www.bonappetit.com/story/black-friday-le-creuset-deals-11-27-2026",
-      "published": "2026-11-27T09:05:00+00:00"
+      "title": "The Coffee Mug I Rave About to Strangers Is on Sale for Black Friday",
+      "url": "https://www.bonappetit.com/story/fellow-move-mug-hightly-recommend",
+      "published": "2026-11-27T16:37:29+00:00"
+    },
+    {
+      "id": "8ed72797205d23a250eb366e277a13fdb4721739731e229568ba454fffffd233",
+      "source": "New Scientist",
+      "title": "Vagus nerve stimulation slows growth and spread of pancreatic cancer",
+      "url": "https://www.newscientist.com/article/2601187-vagus-nerve-stimulation-slows-growth-and-spread-of-pancreatic-cancer/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "published": "2026-11-27T14:00:00+00:00"
+    },
+    {
+      "id": "ad3291a0ca20adc026869b9aa64fe1ce49c80a0d00bdb96438946e4de1fcb500",
+      "source": "The Daily Grail",
+      "title": "News Briefs 27-11-2026",
+      "url": "https://www.dailygrail.com/2026/11/news-briefs-27-11-2026/",
+      "published": "2026-11-27T12:05:05+00:00"
+    },
+    {
+      "id": "5967ff458b49c03167198e5ed928aa7e4dfb87dde05c47adf060a316434c15d5",
+      "source": "Ars Technica",
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "published": "2026-11-27T12:05:01+00:00"
+    },
+    {
+      "id": "71cfad756b8d559299c08305fdf9a1dd6d0e1061f04b3944d3503919608d125e",
+      "source": "Bon Appetit",
+      "title": "Pickled Celery Gibson",
+      "url": "https://www.bonappetit.com/recipe/pickled-celery-gibson",
+      "published": "2026-11-27T12:00:00+00:00"
+    },
+    {
+      "id": "84c08e61020b26f0f693db86dcba0e5ed045a62f27cae21e3bb32146f3c75c75",
+      "source": "Ars Technica",
+      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+      "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+      "published": "2026-11-27T11:30:04+00:00"
     },
     {
       "id": "d249369af23d2fd2a1a5573e65fac0ae75aac0712bd4e8a5ea7f7527d1a43ec5",
@@ -71,13 +106,6 @@
       "title": "Particles not seen before have been observed in a quantum simulator",
       "url": "https://www.newscientist.com/article/2600979-particles-not-seen-before-have-been-observed-in-a-quantum-simulator/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
       "published": "2026-11-27T09:00:00+00:00"
-    },
-    {
-      "id": "bbfb1d37f2fb5fdab2085806d90077fa7644e455ba843a85aefe4490c75afacd",
-      "source": "Ars Technica",
-      "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
-      "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
-      "published": "2026-11-27T08:00:53+00:00"
     },
     {
       "id": "009cf54ea224b08f26b4a0017d8a1ec8229562f4557d47675be93d21e1fe0f2e",
@@ -92,20 +120,6 @@
       "title": "Russell Targ: Physicist, Parapsychologist, and Remote Viewing Pioneer, Dies at 92 (1934-2026)",
       "url": "https://www.dailygrail.com/2026/11/russell-targ-physicist-parapsychologist-and-remote-viewing-pioneer-dies-at-92-1934-2026/",
       "published": "2026-11-26T18:17:08+00:00"
-    },
-    {
-      "id": "cd2ffd2be57f1654c1e8c32af3f4eb97ece11948c7cf06379ae14cc043cf95ee",
-      "source": "Ars Technica",
-      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
-      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
-      "published": "2026-11-26T18:00:29+00:00"
-    },
-    {
-      "id": "193535c3d6a203120e7e6767b1bbb7bd1144689306bdb28c2cd73dceaab7cc01",
-      "source": "Ars Technica",
-      "title": "Draining peatlands is responsible for a few percent of our global warming",
-      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
-      "published": "2026-11-26T12:15:42+00:00"
     },
     {
       "id": "79a041fbd1ebb5270ff54c289699453fd9b27ca8cd309c5874ef88053e7e2f9a",
@@ -143,25 +157,11 @@
       "published": "2026-11-25T19:03:09+00:00"
     },
     {
-      "id": "faef1aa5846357ca0e29c559817add39dbf2a26b4e90a2900b65fced9c16e24b",
-      "source": "New Scientist",
-      "title": "Seabird ‘spies’ could help spot ships that aren’t broadcasting their location",
-      "url": "https://www.newscientist.com/article/2600830-seabird-spies-could-help-spot-ships-that-arent-broadcasting-their-location/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "published": "2026-11-25T19:00:00+00:00"
-    },
-    {
       "id": "81d2313a46af103a669d223ab7ba65773ea13894fef1b3cf1cff1a94a77005b3",
       "source": "Esquire",
       "title": "The 50 Best Sports Movies of All Time",
       "url": "https://www.esquire.com/entertainment/movies/a74511474/best-sports-movies-of-all-time/",
       "published": "2026-11-25T16:26:53+00:00"
-    },
-    {
-      "id": "1a57ac3d16a103a657e07f2841dffa77b109f90a76b6c52d325e7306ed4aa367",
-      "source": "The Daily Grail",
-      "title": "News Briefs 25-11-2026",
-      "url": "https://www.dailygrail.com/2026/11/news-briefs-25-11-2026/",
-      "published": "2026-11-25T11:32:05+00:00"
     },
     {
       "id": "f2415bed47809147e27503b2ed8e71176379d0a5d286ff6bc1479d60e19b9a93",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T01:50:54.821985+00:00",
+  "updated": "2026-11-27T02:06:58.200035+00:00",
   "count": 30,
   "articles": [
     {
@@ -7,7 +7,14 @@
       "source": "Met Office - UK Severe Weather Warnings",
       "title": "Yellow warning of ice affecting Yorkshire & Humber",
       "url": "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings#?date=2026-11-27&id=9596cb76-cbcc-4b41-ae20-f68f10de2cef&referrer=rss",
-      "published": "2026-11-27T01:50:53.708099+00:00"
+      "published": "2026-11-27T02:06:55.719045+00:00"
+    },
+    {
+      "id": "070fa6bfc84f4bc9173176e24f4dfe3f2863006fdd7a17f26d104b312ff18c3f",
+      "source": "The Guardian",
+      "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+      "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+      "published": "2026-11-27T01:41:50+00:00"
     },
     {
       "id": "15cbe19640541e825b919e173b712dd529c9fd5cd316da09560202058a1ced59",
@@ -38,165 +45,11 @@
       "published": "2026-11-27T00:54:45+00:00"
     },
     {
-      "id": "125c4b442aec79eb6a1c296447fb445055783d025f312e5e1bc478ef75fbb08e",
-      "source": "BBC News",
-      "title": "The young hikers finding friendship and fresh air offline",
-      "url": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T00:52:34+00:00"
-    },
-    {
-      "id": "a067c0da2f1d96696152779850abefb98b2c9c43923fffcee50670ce53b798da",
-      "source": "BBC News",
-      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T00:52:11+00:00"
-    },
-    {
       "id": "cb58209d3c4b934d6042cc20e10bc061e7ca4913658d1e38c1fd418c88179b1b",
       "source": "The Guardian",
       "title": "No sanctions and no recrimination: Cricket Australia ball tampering forum to include 2017-18 Ashes series",
       "url": "https://www.theguardian.com/sport/2026/nov/27/cricket-australia-ball-tampering-forum-inquiry-2017-2018-ashes-series-ntwnfb",
       "published": "2026-11-27T00:51:00+00:00"
-    },
-    {
-      "id": "efe7c65837100c2fdbb19409d9337eefa16718f4f23f0d57a5bf199d1cdd4103",
-      "source": "BBC News",
-      "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T00:48:11+00:00"
-    },
-    {
-      "id": "e9fd551f5436e119275dbc234812a79862e08cbe0a79047558b23b27a10f500a",
-      "source": "BBC News",
-      "title": "Australia's sandpapergate probe to also include 2017-18 Ashes",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T00:43:03+00:00"
-    },
-    {
-      "id": "704a843f5fd37993febfb4edceb5dbaa1d8acf4840f7114fde18f90b76cecb9e",
-      "source": "BBC News",
-      "title": "Huw Edwards gives first interviews since child abuse image conviction",
-      "url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T00:38:03+00:00"
-    },
-    {
-      "id": "9b8da640bf5fa218d7662ed2f4ca3f438290e66c8b4bae29838bc8a5203710de",
-      "source": "The Guardian",
-      "title": "Golden ginkgos and rich red maples: Japan’s autumn colours – in pictures",
-      "url": "https://www.theguardian.com/world/gallery/2026/nov/27/golden-ginkgos-and-rich-red-maples-japans-autumn-colours-in-pictures",
-      "published": "2026-11-27T00:28:39+00:00"
-    },
-    {
-      "id": "a0f4daf8e72369fe66712d7d6acfb86d15ba2e588109ab397bc36aca94aecbd3",
-      "source": "BBC News",
-      "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T00:20:10+00:00"
-    },
-    {
-      "id": "40a30bec461fdcd163ef3eb1b06363d027782df70506f562d05079d68ae0933f",
-      "source": "BBC News",
-      "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T00:18:44+00:00"
-    },
-    {
-      "id": "e16018486c2a1439e8fcbe230fcc17d586059513aa7d93edbcebae129ec4ab02",
-      "source": "The Guardian",
-      "title": "Tyson Fury v Anthony Joshua: Paris Fury retracts claim her husband was diagnosed with schizophrenia",
-      "url": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-v-anthony-joshua-paris-fury-retracts-claim-her-husband-was-diagnosed-with-schizophrenia",
-      "published": "2026-11-27T00:17:07+00:00"
-    },
-    {
-      "id": "304f3aebbc7d27961cb7aa81f53b3d958fdf9daf0ad9f23356fcc74dfce84915",
-      "source": "The Guardian",
-      "title": "Water firms to identify 250,000 vulnerable households in England eligible for discounts",
-      "url": "https://www.theguardian.com/business/2026/nov/27/water-firms-to-identify-250000-vulnerable-households-in-england-eligible-for-discounts",
-      "published": "2026-11-27T00:01:48+00:00"
-    },
-    {
-      "id": "be08c23996eee30f68e8945eafe43d704f4da1898fc1942716688c1417b10328",
-      "source": "The Guardian",
-      "title": "Killer frogs and rat-murdering fairies: the macabre cards Victorians sent at Christmas",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/27/killer-frogs-rat-murdering-fairies-macabre-cards-victorian-christmas",
-      "published": "2026-11-27T00:01:48+00:00"
-    },
-    {
-      "id": "869f0cb62bd2d648a0826afc4628eb6ac823500eb13938a820467838e0571ade",
-      "source": "The Guardian",
-      "title": "Nearly half of ethnic minority people in UK have faced racism at work in last year, survey finds",
-      "url": "https://www.theguardian.com/world/2026/nov/27/nearly-half-of-ethnic-minority-people-in-uk-have-faced-racism-at-work-in-last-year-survey-finds",
-      "published": "2026-11-27T00:01:47+00:00"
-    },
-    {
-      "id": "f1e971a7aa6fa4278cb1c088696c0e15427802ce6724fb32e6e1615009d6a0ff",
-      "source": "The Guardian",
-      "title": "Premier League: 10 things to look out for this weekend",
-      "url": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
-      "published": "2026-11-27T00:00:48+00:00"
-    },
-    {
-      "id": "1a9b026564aa8b016c71b7c051321fd6b3581e8bbf467b74785c0e2a71f3ad1c",
-      "source": "BBC News",
-      "title": "UK to pay 'participation' fee to deliver EU deals",
-      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T23:17:12+00:00"
-    },
-    {
-      "id": "b084591b14edb85ced184df222938518983a8e843b9ed4d8ce88a169b12f8003",
-      "source": "BBC News",
-      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-      "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T23:03:16+00:00"
-    },
-    {
-      "id": "6a642c31fb67bd3f7e20a929b462ac8b07cb837ac8c9d595c4e77c9469aae0b0",
-      "source": "The Guardian",
-      "title": "Chance of snow forecast for northern England and Scotland in next few days",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
-      "published": "2026-11-26T23:01:40+00:00"
-    },
-    {
-      "id": "2eccc11da40e85e306dcd3335ba0a3c0f14cddae85ca3b8c6ccdc086407f139a",
-      "source": "BBC News",
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T22:49:27+00:00"
-    },
-    {
-      "id": "59738e1033a2897afe4999daecefb74fa0554155f6b71893a34ad5f7d77e3822",
-      "source": "BBC News",
-      "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T22:27:52+00:00"
-    },
-    {
-      "id": "065e5d78bdd75d4e1a03538f233d7248057cb6166d5e5b1c79093673e6c5cfd6",
-      "source": "The Guardian",
-      "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
-      "url": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
-      "published": "2026-11-26T22:10:14+00:00"
-    },
-    {
-      "id": "5a12d8427988c91984a84b5781e05608a5d3916cbc57e0262d821300232bccdf",
-      "source": "BBC News",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T22:01:22+00:00"
-    },
-    {
-      "id": "fe446e29cd757cdc3c24c833070d3ccb3356159be6c05f5a7aaf86b6a4dbba7a",
-      "source": "The Guardian",
-      "title": "Sweetpea review – why was this disastrous serial killer comedy even given a second chance?",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/26/sweetpea-season-2-review-ella-purnell-sky-atlantic-now",
-      "published": "2026-11-26T22:00:45+00:00"
-    },
-    {
-      "id": "85a2dcdf151ac8428ce89d9bb3c82b86794e2a3e70202135ace0ebd2380101c4",
-      "source": "BBC News",
-      "title": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
-      "url": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T21:51:16+00:00"
     },
     {
       "id": "009cf54ea224b08f26b4a0017d8a1ec8229562f4557d47675be93d21e1fe0f2e",
@@ -206,11 +59,158 @@
       "published": "2026-11-26T21:35:21+00:00"
     },
     {
-      "id": "e1663f4b4cb101e975cbd0a40e9e29a28980f9e3323e10907d6e64ab809c7b1a",
-      "source": "BBC News",
-      "title": "Fury 'never received' schizophrenia diagnosis",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T21:25:00+00:00"
+      "id": "d45c597382a4f546bec69d9b07bd3fc4e957cbc8ea4f9021138f5462f02e5ba9",
+      "source": "The Daily Grail",
+      "title": "Russell Targ: Physicist, Parapsychologist, and Remote Viewing Pioneer, Dies at 92 (1934-2026)",
+      "url": "https://www.dailygrail.com/2026/11/russell-targ-physicist-parapsychologist-and-remote-viewing-pioneer-dies-at-92-1934-2026/",
+      "published": "2026-11-26T18:17:08+00:00"
+    },
+    {
+      "id": "cd2ffd2be57f1654c1e8c32af3f4eb97ece11948c7cf06379ae14cc043cf95ee",
+      "source": "Ars Technica",
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+      "published": "2026-11-26T18:00:29+00:00"
+    },
+    {
+      "id": "193535c3d6a203120e7e6767b1bbb7bd1144689306bdb28c2cd73dceaab7cc01",
+      "source": "Ars Technica",
+      "title": "Draining peatlands is responsible for a few percent of our global warming",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+      "published": "2026-11-26T12:15:42+00:00"
+    },
+    {
+      "id": "1fb96d1f02355e3a06969e340fc07a8807930e2ca6cf9c217f623226ff7d5d8e",
+      "source": "Ars Technica",
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+      "published": "2026-11-26T12:00:14+00:00"
+    },
+    {
+      "id": "5000298f26e34f9f4fac8d2cc361dbe998f4048ec0aec9a37f8668395e41054f",
+      "source": "Bon Appetit",
+      "title": "Striped Malted Pound Cake",
+      "url": "https://www.bonappetit.com/recipe/striped-malted-pound-cake",
+      "published": "2026-11-26T12:00:00+00:00"
+    },
+    {
+      "id": "79a041fbd1ebb5270ff54c289699453fd9b27ca8cd309c5874ef88053e7e2f9a",
+      "source": "New Scientist",
+      "title": "Ultracold atoms could help unravel a major flaw in quantum theory",
+      "url": "https://www.newscientist.com/article/2600718-ultracold-atoms-could-help-unravel-a-major-flaw-in-quantum-theory/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "published": "2026-11-26T12:00:00+00:00"
+    },
+    {
+      "id": "2a2a7b5823217075fde373ce65d1f6a574a2a725e2223479c9a4221130d417a7",
+      "source": "Bon Appetit",
+      "title": "Citrus Madeleines",
+      "url": "https://www.bonappetit.com/recipe/citrus-madeleines",
+      "published": "2026-11-26T11:00:00+00:00"
+    },
+    {
+      "id": "91e6962bdebad4cc0b5c22c69804388d03f57e5a3a17322019f4b6a587f05277",
+      "source": "The Daily Grail",
+      "title": "News Briefs 26-11-2026",
+      "url": "https://www.dailygrail.com/2026/11/news-briefs-26-11-2026/",
+      "published": "2026-11-26T06:00:00+00:00"
+    },
+    {
+      "id": "8c2cd022181eb7178740431a5d25966c7c76ddbec14c588a11f19390d8eed383",
+      "source": "Bon Appetit",
+      "title": "The Ideal Thanksgiving Place Setting for Every Member of the Family",
+      "url": "https://www.bonappetit.com/story/thanksgiving-family-place-settings",
+      "published": "2026-11-25T22:24:10+00:00"
+    },
+    {
+      "id": "69ad11d8f5860b2d1324c5f35c5796cdc323d715d2433352c02478014988fa7a",
+      "source": "The Wild Hunt",
+      "title": "Bulgaria’s Thracian Temple Where Pagan Worship May Have Outlasted Rome’s Bans",
+      "url": "https://wildhunt.org/2026/11/bulgarias-thracian-temple-where-pagan-worship-may-have-outlasted-romes-bans.html?utm_source=rss&utm_medium=rss&utm_campaign=bulgarias-thracian-temple-where-pagan-worship-may-have-outlasted-romes-bans",
+      "published": "2026-11-25T22:00:12+00:00"
+    },
+    {
+      "id": "536ffdd7bf5b035b2e32788bd339b0506cceba0c2cba3fedd8c037ccab28d809",
+      "source": "Esquire",
+      "title": "Why <i><em>The Rings of Power</em></i> Will Never Be the Same After the Season 3 Finale",
+      "url": "https://www.esquire.com/entertainment/tv/a74534192/rings-of-power-season-3-finale/",
+      "published": "2026-11-25T20:33:02+00:00"
+    },
+    {
+      "id": "e14a1e00e930cf1751259198c82262d5fcafc37060342f5a8038aedcaefda10c",
+      "source": "Esquire",
+      "title": "How Does Owen Wilson Find His Zen?",
+      "url": "https://www.esquire.com/entertainment/a74531800/owen-wilson-what-ive-learned-interview-2026/",
+      "published": "2026-11-25T19:03:09+00:00"
+    },
+    {
+      "id": "faef1aa5846357ca0e29c559817add39dbf2a26b4e90a2900b65fced9c16e24b",
+      "source": "New Scientist",
+      "title": "Seabird ‘spies’ could help spot ships that aren’t broadcasting their location",
+      "url": "https://www.newscientist.com/article/2600830-seabird-spies-could-help-spot-ships-that-arent-broadcasting-their-location/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "published": "2026-11-25T19:00:00+00:00"
+    },
+    {
+      "id": "ac3e440a3284b1442acbbf0505988ae6102ceae07c646ca96eefdbed889c4ab9",
+      "source": "New Scientist",
+      "title": "AI’s stunning progress in maths shows how little we understand it",
+      "url": "https://www.newscientist.com/article/2600491-ais-stunning-progress-in-maths-shows-how-little-we-understand-it/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "published": "2026-11-25T18:00:00+00:00"
+    },
+    {
+      "id": "81d2313a46af103a669d223ab7ba65773ea13894fef1b3cf1cff1a94a77005b3",
+      "source": "Esquire",
+      "title": "The 50 Best Sports Movies of All Time",
+      "url": "https://www.esquire.com/entertainment/movies/a74511474/best-sports-movies-of-all-time/",
+      "published": "2026-11-25T16:26:53+00:00"
+    },
+    {
+      "id": "1a57ac3d16a103a657e07f2841dffa77b109f90a76b6c52d325e7306ed4aa367",
+      "source": "The Daily Grail",
+      "title": "News Briefs 25-11-2026",
+      "url": "https://www.dailygrail.com/2026/11/news-briefs-25-11-2026/",
+      "published": "2026-11-25T11:32:05+00:00"
+    },
+    {
+      "id": "f2415bed47809147e27503b2ed8e71176379d0a5d286ff6bc1479d60e19b9a93",
+      "source": "The Wild Hunt",
+      "title": "Türkiye Orders Halt on Ads for Spellwork, Psychic Services, and Fortune-Telling",
+      "url": "https://wildhunt.org/2026/11/turkiye-orders-halt-on-ads-for-spellwork-psychic-services-and-fortune-telling.html?utm_source=rss&utm_medium=rss&utm_campaign=turkiye-orders-halt-on-ads-for-spellwork-psychic-services-and-fortune-telling",
+      "published": "2026-11-24T22:21:07+00:00"
+    },
+    {
+      "id": "859f9e96c7c71959b857d29425b2fd35159d5be5548a09f167a2082ff9efa963",
+      "source": "The Digital Ambler",
+      "title": "A Brief Note about genAI Usage: Don’t.",
+      "url": "https://digitalambler.com/2026/11/21/a-brief-note-about-genai-usage-dont/",
+      "published": "2026-11-21T18:10:46+00:00"
+    },
+    {
+      "id": "4f8c1171bb2b0f28db0bb15df52d522031c774c20b6f45f7ed909c36e36792b5",
+      "source": "The Digital Ambler",
+      "title": "Official Release of the Hermetic Synaxis",
+      "url": "https://digitalambler.com/2026/11/13/official-release-of-the-hermetic-synaxis/",
+      "published": "2026-11-13T19:00:02+00:00"
+    },
+    {
+      "id": "1271e82c47d857fa49951a23ec265c4556ea7dcac2dba21b04a6d7b666e1b0e8",
+      "source": "Epicurious",
+      "title": "Maple Pumpkin Overnight Oats",
+      "url": "https://www.epicurious.com/recipes/food/views/ba-syn-maple-pumpkin-overnight-oats",
+      "published": "2026-11-12T13:00:00+00:00"
+    },
+    {
+      "id": "8f370ffc035addb44c2a7fdf760817bf701374d9b35fd6c0d47b9e3efa2e5a72",
+      "source": "Epicurious",
+      "title": "Homemade Dog Treats With Applesauce and Cheese",
+      "url": "https://www.epicurious.com/recipes/food/views/homemade-dog-treats",
+      "published": "2026-11-11T15:15:53+00:00"
+    },
+    {
+      "id": "8f1be5b6fc630b831f6610150bdc92b90a5f2b63c71349de573345ece54e060c",
+      "source": "Epicurious",
+      "title": "Anchovy-Garlic Pasta",
+      "url": "https://www.epicurious.com/recipes/food/views/ba-syn-4th-date-anchovy-garlic-pasta",
+      "published": "2026-11-09T11:00:00+00:00"
     }
   ]
 }

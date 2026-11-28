@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T00:51:49.459760+00:00",
+  "updated": "2026-11-28T02:40:59.414577+00:00",
   "count": 92,
   "articles": [
     {
@@ -7,21 +7,56 @@
       "source": "MarLIN News",
       "title": "Welcome to the new website",
       "url": "https://www.marlin.ac.uk/news/article/101",
-      "published": "2026-11-28T00:51:45.399500+00:00"
+      "published": "2026-11-28T02:40:52.792749+00:00"
     },
     {
       "id": "17ca4d3086281339e2b070cf64e40c72a786f78d46a09e563167048aff9f311d",
       "source": "MarLIN News",
       "title": "Updates January 2016",
       "url": "https://www.marlin.ac.uk/news/article/102",
-      "published": "2026-11-28T00:51:45.399497+00:00"
+      "published": "2026-11-28T02:40:52.792745+00:00"
     },
     {
-      "id": "ac743ad904d512b62bcecd11d93049156d18b236e129220e73db6539d7f1e25c",
+      "id": "f17c3816abd7bf52cf02ab20eb687a3efc93e710cb1d287249b41a6dbae95b7b",
       "source": "BBC News",
-      "title": "The Papers: 'Catherine on cancer fight' and 'Benefits and pensions chaos'",
-      "url": "https://www.bbc.co.uk/news/articles/ck792l9q07xro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-28T00:38:55+00:00"
+      "title": "Set time aside for children to read for pleasure, schools to be told",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T02:20:49+00:00"
+    },
+    {
+      "id": "0ee5fced55f270a87e661eb5542f993b9141bedb59aa7bcabd3d8b0019f423ec",
+      "source": "Deadline",
+      "title": "Jermaine Haley Dies; WWE Star Known To Fans As Bronson Reed was 38",
+      "url": "https://deadline.com/2026/11/jermaine-haley-dies-wwe-bronson-reed-was-38-1237234503/",
+      "published": "2026-11-28T02:03:40+00:00"
+    },
+    {
+      "id": "1f82edb73d2d7fb0b1bf44f2715689eed6ead141d1dde08b91f880a3afb888f6",
+      "source": "The Guardian",
+      "title": "Aaron Rodgers texts into Amazon broadcast to defend himself as Steelers beat Broncos",
+      "url": "https://www.theguardian.com/sport/2026/nov/27/aaron-rodgers-texts-into-amazon-broadcast-to-defend-himself-as-steelers-beat-broncos",
+      "published": "2026-11-28T02:01:05+00:00"
+    },
+    {
+      "id": "ba81b558718f57a8fb2d01bd0888f2df8bd9d53af1c3f246a6b5e83905645c71",
+      "source": "The Guardian",
+      "title": "Could New Zealand head back to the polls? The new centrist party on the block holds the power| Lara Greaves",
+      "url": "https://www.theguardian.com/world/2026/nov/28/could-new-zealand-head-back-to-the-polls-the-new-centrist-party-on-the-block-holds-the-power",
+      "published": "2026-11-28T01:49:15+00:00"
+    },
+    {
+      "id": "bb0be17c4eefba01243166efa49996a77433ef80c5718645aab684ee39814449",
+      "source": "BBC News",
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T01:30:50+00:00"
+    },
+    {
+      "id": "e852f75722b42eaddbb7b8376a535e1b912b1846f89116985000d79655d0f79d",
+      "source": "Deadline",
+      "title": "NBC Pulls Ad That Criticizes U.S.’ Israel Policy & Aired During ‘SNL’ Thanksgiving Special",
+      "url": "https://deadline.com/2026/11/nbc-pulls-ad-israel-gaza-1237234472/",
+      "published": "2026-11-28T01:02:47+00:00"
     },
     {
       "id": "a0797d798a1179304c0d3fe97d26978e6542a4ceb79e1372307cd7b3f579b0a9",
@@ -31,20 +66,6 @@
       "published": "2026-11-28T00:07:00+00:00"
     },
     {
-      "id": "94a6e25c543256576661df2ff78566a83411c58e5e0555255132990c7dd173b3",
-      "source": "Deadline",
-      "title": "Donald Trump Jr.’s Outrage Gifts Netflix’s ‘Hunting Wives’ Some Priceless Streisand Effect PR",
-      "url": "https://deadline.com/2026/11/trump-jr-hunting-wives-kiss-1237234421/",
-      "published": "2026-11-27T23:46:48+00:00"
-    },
-    {
-      "id": "8c1e1132af5f9c2a2359cac73b683449eeb2fbbc474559c0edcf5e79168d3f46",
-      "source": "The Guardian",
-      "title": "Schools in England must set aside time for pupils to read for pleasure",
-      "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
-      "published": "2026-11-27T23:34:55+00:00"
-    },
-    {
       "id": "8ef29e4f22b1908e50d77c31d828c0e14eb6c11d6d4596bd65cf16aff6af5474",
       "source": "Bon Appetit",
       "title": "16 Best Black Friday Air Fryer Deals for Crisping on the Cheap (2026)",
@@ -52,30 +73,9 @@
       "published": "2026-11-27T23:32:00+00:00"
     },
     {
-      "id": "2a895774aad5a36d0d6ba7cbca9a1c46767766b03bf33bfcb2a399de81fa8037",
-      "source": "The Guardian",
-      "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
-      "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
-      "published": "2026-11-27T23:28:50+00:00"
-    },
-    {
-      "id": "b99a291b9f0ecc6d54f1693b6c88d1c66c2c088f833dc0d4dc94ce0a4405ed3b",
-      "source": "BBC News",
-      "title": "Five-try Ireland beat Australia in autumn finale",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw987l0ej11mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T22:17:45+00:00"
-    },
-    {
-      "id": "25b5eb289490409aad8b8fb7e4b6260f7708907a0cc8c5664d26ddbac2b28056",
-      "source": "Deadline",
-      "title": "Gayle King Taking Next Week Off From ‘CBS Mornings’ Following Son-In-Law’s Death",
-      "url": "https://deadline.com/2026/11/gayle-king-cbs-mornings-absent-week-son-in-laws-death-1237234404/",
-      "published": "2026-11-27T22:09:15+00:00"
-    },
-    {
       "id": "542d05b19747a2966be677b0ac38126635c2785260f687525255369ce2caf850",
       "source": "The Wild Hunt",
-      "title": "“The Shining” and Spirits of Place",
+      "title": "The Shining and Spirits of Place",
       "url": "https://wildhunt.org/2026/11/the-shining-and-spirits-of-place.html?utm_source=rss&utm_medium=rss&utm_campaign=the-shining-and-spirits-of-place",
       "published": "2026-11-27T22:00:51+00:00"
     },

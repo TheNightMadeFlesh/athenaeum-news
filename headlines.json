@@ -1,20 +1,27 @@
 {
-  "updated": "2026-11-28T00:30:11.748048+00:00",
-  "count": 90,
+  "updated": "2026-11-28T00:51:49.459760+00:00",
+  "count": 92,
   "articles": [
     {
       "id": "f47712807e66e58b152fbc3283b2b80ed8e02f767f2b1bb7733eeaafdea09f5f",
       "source": "MarLIN News",
       "title": "Welcome to the new website",
       "url": "https://www.marlin.ac.uk/news/article/101",
-      "published": "2026-11-28T00:30:04.366984+00:00"
+      "published": "2026-11-28T00:51:45.399500+00:00"
     },
     {
       "id": "17ca4d3086281339e2b070cf64e40c72a786f78d46a09e563167048aff9f311d",
       "source": "MarLIN News",
       "title": "Updates January 2016",
       "url": "https://www.marlin.ac.uk/news/article/102",
-      "published": "2026-11-28T00:30:04.366979+00:00"
+      "published": "2026-11-28T00:51:45.399497+00:00"
+    },
+    {
+      "id": "ac743ad904d512b62bcecd11d93049156d18b236e129220e73db6539d7f1e25c",
+      "source": "BBC News",
+      "title": "The Papers: 'Catherine on cancer fight' and 'Benefits and pensions chaos'",
+      "url": "https://www.bbc.co.uk/news/articles/ck792l9q07xro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T00:38:55+00:00"
     },
     {
       "id": "a0797d798a1179304c0d3fe97d26978e6542a4ceb79e1372307cd7b3f579b0a9",
@@ -64,13 +71,6 @@
       "title": "Gayle King Taking Next Week Off From ‘CBS Mornings’ Following Son-In-Law’s Death",
       "url": "https://deadline.com/2026/11/gayle-king-cbs-mornings-absent-week-son-in-laws-death-1237234404/",
       "published": "2026-11-27T22:09:15+00:00"
-    },
-    {
-      "id": "6ccc7c31dee7390a75c18152082be5fe2be3bf6c79013136fa5c41c7ac3188b1",
-      "source": "BBC News",
-      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T22:03:46+00:00"
     },
     {
       "id": "542d05b19747a2966be677b0ac38126635c2785260f687525255369ce2caf850",
@@ -423,6 +423,13 @@
       "published": "2026-11-11T15:15:53+00:00"
     },
     {
+      "id": "e8a0c4b26a16611917152f76f5bb4f2223c07feddaeff83313ba3b81d7b7ddca",
+      "source": "Illuminates of Thanateros - British Isles",
+      "title": "Tributes to Nikki Wyrd",
+      "url": "https://iotbritishisles.com/2026/11/11/tributes-to-nikki-wyrd/",
+      "published": "2026-11-11T10:00:00+00:00"
+    },
+    {
       "id": "f505f3087f62d7fdcdbda24825c482d19d50ebe22df79200c99d4da078cd0398",
       "source": "Wicked Obscura",
       "title": "Friday the 13th & the Scorpio New Moon: A Time for Shadow Work, Protection & New Beginnings",
@@ -540,6 +547,13 @@
       "title": "Real Wrexham: Becoming the City by Sara Erddig",
       "url": "https://psychogeographicreview.com/real-wrexham-becoming-the-city-by-sara-erddig/",
       "published": "2026-06-29T10:40:00+00:00"
+    },
+    {
+      "id": "30edf1046859287baaba57b9865441c2df8feddef62e5521c0313687051d0a7f",
+      "source": "Illuminates of Thanateros - British Isles",
+      "title": "Homage to the Chancellor",
+      "url": "https://iotbritishisles.com/2026/05/31/homage-to-the-chancellor/",
+      "published": "2026-05-31T17:06:40+00:00"
     },
     {
       "id": "0776a6fb19fd6acaf9a4b3b6fdadaa769306acebe15d675f89c41609601b088a",

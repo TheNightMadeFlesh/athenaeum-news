@@ -1,55 +1,160 @@
 {
-  "updated": "2026-11-27T19:56:24.322693+00:00",
+  "updated": "2026-11-28T00:25:21.904286+00:00",
   "count": 30,
   "articles": [
     {
-      "id": "6e15ea0f14381717be01af92969a290020726d772ea1fb60ebe69a60457cf48d",
+      "id": "f47712807e66e58b152fbc3283b2b80ed8e02f767f2b1bb7733eeaafdea09f5f",
+      "source": "MarLIN News",
+      "title": "Welcome to the new website",
+      "url": "https://www.marlin.ac.uk/news/article/101",
+      "published": "2026-11-28T00:25:18.990739+00:00"
+    },
+    {
+      "id": "17ca4d3086281339e2b070cf64e40c72a786f78d46a09e563167048aff9f311d",
+      "source": "MarLIN News",
+      "title": "Updates January 2016",
+      "url": "https://www.marlin.ac.uk/news/article/102",
+      "published": "2026-11-28T00:25:18.990735+00:00"
+    },
+    {
+      "id": "ff092c50ccdc26091ee5d49fcec00bca65df1f3c56d2aa8a90fe68b7f4aed436",
+      "source": "MarLIN News",
+      "title": "Major update to habitat reviews",
+      "url": "https://www.marlin.ac.uk/news/article/103",
+      "published": "2026-11-28T00:25:18.990731+00:00"
+    },
+    {
+      "id": "a0797d798a1179304c0d3fe97d26978e6542a4ceb79e1372307cd7b3f579b0a9",
       "source": "Bon Appetit",
-      "title": "Breville Oracle Jet Review: This Beginner-Friendly Espresso Machine Is $200 Off Right Now",
-      "url": "https://www.bonappetit.com/story/breville-oracle-jet-review",
-      "published": "2026-11-27T19:51:58+00:00"
+      "title": "Black Friday Cookware Deals on Our Buy It For Life Pieces (2026)",
+      "url": "https://www.bonappetit.com/story/black-friday-cookware-11-27-2026",
+      "published": "2026-11-28T00:07:00+00:00"
     },
     {
-      "id": "fd1ba035825bfa9d7cfcdf8f979e37a53eb3d6c640e8a94648f70231cebda3d2",
-      "source": "BBC News",
-      "title": "Mercedes set pace in eventful Qatar second practice",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T19:50:06+00:00"
+      "id": "94a6e25c543256576661df2ff78566a83411c58e5e0555255132990c7dd173b3",
+      "source": "Deadline",
+      "title": "Donald Trump Jr.’s Outrage Gifts Netflix’s ‘Hunting Wives’ Some Priceless Streisand Effect PR",
+      "url": "https://deadline.com/2026/11/trump-jr-hunting-wives-kiss-1237234421/",
+      "published": "2026-11-27T23:46:48+00:00"
     },
     {
-      "id": "8e89210f7e322a3812bf000af16fcfafa08a957202d3922743399e95946eea32",
+      "id": "8c1e1132af5f9c2a2359cac73b683449eeb2fbbc474559c0edcf5e79168d3f46",
       "source": "The Guardian",
-      "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
-      "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
-      "published": "2026-11-27T19:45:51+00:00"
+      "title": "Schools in England must set aside time for pupils to read for pleasure",
+      "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
+      "published": "2026-11-27T23:34:55+00:00"
     },
     {
-      "id": "c05a8dea02928581979ca149b65c78aaa7b7d7b5d03d5c32ffdfaa155b01126c",
+      "id": "8ef29e4f22b1908e50d77c31d828c0e14eb6c11d6d4596bd65cf16aff6af5474",
+      "source": "Bon Appetit",
+      "title": "16 Best Black Friday Air Fryer Deals for Crisping on the Cheap (2026)",
+      "url": "https://www.bonappetit.com/story/black-friday-air-fryer-deals-11-27-2026",
+      "published": "2026-11-27T23:32:00+00:00"
+    },
+    {
+      "id": "2a895774aad5a36d0d6ba7cbca9a1c46767766b03bf33bfcb2a399de81fa8037",
       "source": "The Guardian",
-      "title": "Ireland v Australia: Nations Championship finals weekend – live",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/27/ireland-v-australia-nations-championship-finals-weekend-live",
-      "published": "2026-11-27T19:45:24+00:00"
+      "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+      "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+      "published": "2026-11-27T23:28:50+00:00"
     },
     {
-      "id": "d24a0f8df13b2a50fda30c767672025678fa8522b65e1ca226bb92186a783c3e",
+      "id": "63baf80bc90b496ec2108e983d54344c48f3793256344e67d761cb7054431720",
       "source": "The Guardian",
-      "title": "Nottingham Forest v Chelsea: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/27/nottingham-forest-v-chelsea-premier-league-live",
-      "published": "2026-11-27T19:41:49+00:00"
+      "title": "Charity set up by Captain Tom Moore’s family applies to be struck off",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/27/charity-set-up-by-captain-tom-moores-family-applies-to-be-struck-off",
+      "published": "2026-11-27T23:02:04+00:00"
     },
     {
-      "id": "2f332085aaf3b72cef4ef89e9b20a6ef8bc4bd9530b9a5c49305f42c6f6c7a6c",
+      "id": "b99a291b9f0ecc6d54f1693b6c88d1c66c2c088f833dc0d4dc94ce0a4405ed3b",
       "source": "BBC News",
-      "title": "NHS Grampian publishes leaked report at centre of hospital scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cq36gjdkdn2xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T19:25:06+00:00"
+      "title": "Five-try Ireland beat Australia in autumn finale",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw987l0ej11mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T22:17:45+00:00"
     },
     {
-      "id": "c986090956ef47804991fc8b0e31369ee9bfc5f75dd18fafcc08af98c44c97cf",
+      "id": "b9638491e3c7aba07c7eba9894ac3905fc8c55995f9931075163cc030169c3fd",
+      "source": "Bon Appetit",
+      "title": "The Best Black Friday Coffee Deals, Up to 50% Off (2026)",
+      "url": "https://www.bonappetit.com/story/black-friday-coffee-deals-11-27-2026",
+      "published": "2026-11-27T22:16:00+00:00"
+    },
+    {
+      "id": "25b5eb289490409aad8b8fb7e4b6260f7708907a0cc8c5664d26ddbac2b28056",
+      "source": "Deadline",
+      "title": "Gayle King Taking Next Week Off From ‘CBS Mornings’ Following Son-In-Law’s Death",
+      "url": "https://deadline.com/2026/11/gayle-king-cbs-mornings-absent-week-son-in-laws-death-1237234404/",
+      "published": "2026-11-27T22:09:15+00:00"
+    },
+    {
+      "id": "6ccc7c31dee7390a75c18152082be5fe2be3bf6c79013136fa5c41c7ac3188b1",
       "source": "BBC News",
-      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T19:15:30+00:00"
+      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T22:03:46+00:00"
+    },
+    {
+      "id": "9a4793af74c0c73dc9be3c70cabc2ddb0900f7b8d38291cbde9efdfea0ca670c",
+      "source": "BBC News",
+      "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T22:03:22+00:00"
+    },
+    {
+      "id": "542d05b19747a2966be677b0ac38126635c2785260f687525255369ce2caf850",
+      "source": "The Wild Hunt",
+      "title": "“The Shining” and Spirits of Place",
+      "url": "https://wildhunt.org/2026/11/the-shining-and-spirits-of-place.html?utm_source=rss&utm_medium=rss&utm_campaign=the-shining-and-spirits-of-place",
+      "published": "2026-11-27T22:00:51+00:00"
+    },
+    {
+      "id": "cda6c0f329b404aa3bb83d76c74a15e3ab3d883d4ed631bac53f623b87cbb914",
+      "source": "Hacker Noon",
+      "title": "BASIS Opens First-Round Applications for Card Offering Cashback in the Asset Spent",
+      "url": "https://hackernoon.com/basis-opens-first-round-applications-for-card-offering-cashback-in-the-asset-spent?source=rss",
+      "published": "2026-11-27T21:46:21+00:00"
+    },
+    {
+      "id": "f0a49741c0a966babe43f1db8a6a96ddd1521a1c89f68c9b009e50ee8d1c9b9b",
+      "source": "Deadline",
+      "title": "‘The Challenge’ Alum Tyler Duckworth’s Cause Of Death Revealed",
+      "url": "https://deadline.com/2026/11/tyler-duckworth-cause-of-death-the-challenge-mtv-1237234390/",
+      "published": "2026-11-27T21:32:04+00:00"
+    },
+    {
+      "id": "8e24c4bfb2606e64e495efa10ce269f94743ae9789b25c958ddb5a00d0123c79",
+      "source": "Hacker Noon",
+      "title": "170 Blog Posts To Learn About Crypto Wallet",
+      "url": "https://hackernoon.com/170-blog-posts-to-learn-about-crypto-wallet?source=rss",
+      "published": "2026-11-27T21:01:22+00:00"
+    },
+    {
+      "id": "bf26990048dcdc455feb72bbbd658f43bb190cdd36cc38676d9ede60ba8df2ad",
+      "source": "Nautilus",
+      "title": "The Next Frontier for Cancer Research? Space",
+      "url": "https://nautil.us/the-next-frontier-for-cancer-research-space-1287099/",
+      "published": "2026-11-27T21:00:00+00:00"
+    },
+    {
+      "id": "5834effd710ab2ce611a83f0bed02caf1c4f46a3afa13c97f438ac56ae364198",
+      "source": "Hacker Noon",
+      "title": "Vendor Lock-In Is Creating a Market for Escape",
+      "url": "https://hackernoon.com/vendor-lock-in-is-creating-a-market-for-escape?source=rss",
+      "published": "2026-11-27T20:30:02+00:00"
+    },
+    {
+      "id": "3a7ec15053e8ca17f7693c20c37a84bcb68b54336a7a3931deb4bf0d9f780564",
+      "source": "Nautilus",
+      "title": "This Ancient Egyptian Curse Ritual Ended Up in a Garbage Heap",
+      "url": "https://nautil.us/this-ancient-egyptian-curse-ritual-ended-up-in-a-garbage-heap-1287114/",
+      "published": "2026-11-27T19:00:00+00:00"
+    },
+    {
+      "id": "3fcab4afb5b4916b8da6f0c3905961b9899bd93543d61f96fa10cf364cd95dd6",
+      "source": "The Conversation",
+      "title": "Poundland: the collapse of a high street chain can mean major economic fallout",
+      "url": "https://theconversation.com/poundland-the-collapse-of-a-high-street-chain-can-mean-major-economic-fallout-297759",
+      "published": "2026-11-27T18:02:50+00:00"
     },
     {
       "id": "02ae5ce9e9ae4c4c3ec55f5c8d845c3728562a8fd2637b7449acd710b7828470",
@@ -59,11 +164,39 @@
       "published": "2026-11-27T17:05:37+00:00"
     },
     {
-      "id": "298dbdb3190adf21661da9a70ed530308d1f39bcdff008388b56ee754e2349f1",
-      "source": "Bon Appetit",
-      "title": "The Coffee Mug I Rave About to Strangers Is on Sale for Black Friday",
-      "url": "https://www.bonappetit.com/story/fellow-move-mug-hightly-recommend",
-      "published": "2026-11-27T16:37:29+00:00"
+      "id": "d66b0bbc2584439cc232750c051816a9a5484f77ca8882364f458c2af56ad5a6",
+      "source": "Nautilus",
+      "title": "How City Crows and Country Crows See the World Differently",
+      "url": "https://nautil.us/how-city-crows-and-country-crows-see-the-world-differently-1287089/",
+      "published": "2026-11-27T17:00:00+00:00"
+    },
+    {
+      "id": "d1eeee888932454566611df9a72c5a1e085c555779e0d9dcf3291d94cec31f27",
+      "source": "The Conversation",
+      "title": "How the UK’s net migration figure hit its target after years of government promises",
+      "url": "https://theconversation.com/how-the-uks-net-migration-figure-hit-its-target-after-years-of-government-promises-297787",
+      "published": "2026-11-27T16:38:50+00:00"
+    },
+    {
+      "id": "2dcfebb73ee9bfefb8b73211f3113eb0cc815df0de39b827327c1560d4d703d3",
+      "source": "The Conversation",
+      "title": "Plant-based ‘tuna’ or pea crisps? Focus groups suggest new recipes for local, sustainable protein alternatives",
+      "url": "https://theconversation.com/plant-based-tuna-or-pea-crisps-focus-groups-suggest-new-recipes-for-local-sustainable-protein-alternatives-287421",
+      "published": "2026-11-27T16:21:02+00:00"
+    },
+    {
+      "id": "d40077cfa5619c5ea81249904fdc42e17688a5f895e70df65cb10bdf77925a20",
+      "source": "BigThink",
+      "title": "The invention that changed reading forever (and it wasn’t the Kindle)",
+      "url": "https://bigthink.com/books/history-of-paperback-books/",
+      "published": "2026-11-27T15:30:00+00:00"
+    },
+    {
+      "id": "cc6b1f3c94a66008e5b5eef86c10272212e499e620ffaee814788ec2839e93a3",
+      "source": "Dark Readings",
+      "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+      "url": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+      "published": "2026-11-27T15:27:20+00:00"
     },
     {
       "id": "8ed72797205d23a250eb366e277a13fdb4721739731e229568ba454fffffd233",
@@ -73,144 +206,11 @@
       "published": "2026-11-27T14:00:00+00:00"
     },
     {
-      "id": "ad3291a0ca20adc026869b9aa64fe1ce49c80a0d00bdb96438946e4de1fcb500",
-      "source": "The Daily Grail",
-      "title": "News Briefs 27-11-2026",
-      "url": "https://www.dailygrail.com/2026/11/news-briefs-27-11-2026/",
-      "published": "2026-11-27T12:05:05+00:00"
-    },
-    {
-      "id": "5967ff458b49c03167198e5ed928aa7e4dfb87dde05c47adf060a316434c15d5",
-      "source": "Ars Technica",
-      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
-      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
-      "published": "2026-11-27T12:05:01+00:00"
-    },
-    {
-      "id": "71cfad756b8d559299c08305fdf9a1dd6d0e1061f04b3944d3503919608d125e",
-      "source": "Bon Appetit",
-      "title": "Pickled Celery Gibson",
-      "url": "https://www.bonappetit.com/recipe/pickled-celery-gibson",
-      "published": "2026-11-27T12:00:00+00:00"
-    },
-    {
-      "id": "84c08e61020b26f0f693db86dcba0e5ed045a62f27cae21e3bb32146f3c75c75",
-      "source": "Ars Technica",
-      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
-      "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
-      "published": "2026-11-27T11:30:04+00:00"
-    },
-    {
-      "id": "d249369af23d2fd2a1a5573e65fac0ae75aac0712bd4e8a5ea7f7527d1a43ec5",
-      "source": "New Scientist",
-      "title": "Particles not seen before have been observed in a quantum simulator",
-      "url": "https://www.newscientist.com/article/2600979-particles-not-seen-before-have-been-observed-in-a-quantum-simulator/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "published": "2026-11-27T09:00:00+00:00"
-    },
-    {
-      "id": "009cf54ea224b08f26b4a0017d8a1ec8229562f4557d47675be93d21e1fe0f2e",
-      "source": "The Wild Hunt",
-      "title": "Pagan Community Notes: Week of November 26, 2026",
-      "url": "https://wildhunt.org/2026/11/pagan-community-notes-week-of-november-26-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=pagan-community-notes-week-of-november-26-2026",
-      "published": "2026-11-26T21:35:21+00:00"
-    },
-    {
-      "id": "d45c597382a4f546bec69d9b07bd3fc4e957cbc8ea4f9021138f5462f02e5ba9",
-      "source": "The Daily Grail",
-      "title": "Russell Targ: Physicist, Parapsychologist, and Remote Viewing Pioneer, Dies at 92 (1934-2026)",
-      "url": "https://www.dailygrail.com/2026/11/russell-targ-physicist-parapsychologist-and-remote-viewing-pioneer-dies-at-92-1934-2026/",
-      "published": "2026-11-26T18:17:08+00:00"
-    },
-    {
-      "id": "79a041fbd1ebb5270ff54c289699453fd9b27ca8cd309c5874ef88053e7e2f9a",
-      "source": "New Scientist",
-      "title": "Ultracold atoms could help unravel a major flaw in quantum theory",
-      "url": "https://www.newscientist.com/article/2600718-ultracold-atoms-could-help-unravel-a-major-flaw-in-quantum-theory/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "published": "2026-11-26T12:00:00+00:00"
-    },
-    {
-      "id": "91e6962bdebad4cc0b5c22c69804388d03f57e5a3a17322019f4b6a587f05277",
-      "source": "The Daily Grail",
-      "title": "News Briefs 26-11-2026",
-      "url": "https://www.dailygrail.com/2026/11/news-briefs-26-11-2026/",
-      "published": "2026-11-26T06:00:00+00:00"
-    },
-    {
-      "id": "69ad11d8f5860b2d1324c5f35c5796cdc323d715d2433352c02478014988fa7a",
-      "source": "The Wild Hunt",
-      "title": "Bulgaria’s Thracian Temple Where Pagan Worship May Have Outlasted Rome’s Bans",
-      "url": "https://wildhunt.org/2026/11/bulgarias-thracian-temple-where-pagan-worship-may-have-outlasted-romes-bans.html?utm_source=rss&utm_medium=rss&utm_campaign=bulgarias-thracian-temple-where-pagan-worship-may-have-outlasted-romes-bans",
-      "published": "2026-11-25T22:00:12+00:00"
-    },
-    {
-      "id": "536ffdd7bf5b035b2e32788bd339b0506cceba0c2cba3fedd8c037ccab28d809",
-      "source": "Esquire",
-      "title": "Why <i><em>The Rings of Power</em></i> Will Never Be the Same After the Season 3 Finale",
-      "url": "https://www.esquire.com/entertainment/tv/a74534192/rings-of-power-season-3-finale/",
-      "published": "2026-11-25T20:33:02+00:00"
-    },
-    {
-      "id": "e14a1e00e930cf1751259198c82262d5fcafc37060342f5a8038aedcaefda10c",
-      "source": "Esquire",
-      "title": "How Does Owen Wilson Find His Zen?",
-      "url": "https://www.esquire.com/entertainment/a74531800/owen-wilson-what-ive-learned-interview-2026/",
-      "published": "2026-11-25T19:03:09+00:00"
-    },
-    {
-      "id": "81d2313a46af103a669d223ab7ba65773ea13894fef1b3cf1cff1a94a77005b3",
-      "source": "Esquire",
-      "title": "The 50 Best Sports Movies of All Time",
-      "url": "https://www.esquire.com/entertainment/movies/a74511474/best-sports-movies-of-all-time/",
-      "published": "2026-11-25T16:26:53+00:00"
-    },
-    {
-      "id": "f2415bed47809147e27503b2ed8e71176379d0a5d286ff6bc1479d60e19b9a93",
-      "source": "The Wild Hunt",
-      "title": "Türkiye Orders Halt on Ads for Spellwork, Psychic Services, and Fortune-Telling",
-      "url": "https://wildhunt.org/2026/11/turkiye-orders-halt-on-ads-for-spellwork-psychic-services-and-fortune-telling.html?utm_source=rss&utm_medium=rss&utm_campaign=turkiye-orders-halt-on-ads-for-spellwork-psychic-services-and-fortune-telling",
-      "published": "2026-11-24T22:21:07+00:00"
-    },
-    {
-      "id": "859f9e96c7c71959b857d29425b2fd35159d5be5548a09f167a2082ff9efa963",
-      "source": "The Digital Ambler",
-      "title": "A Brief Note about genAI Usage: Don’t.",
-      "url": "https://digitalambler.com/2026/11/21/a-brief-note-about-genai-usage-dont/",
-      "published": "2026-11-21T18:10:46+00:00"
-    },
-    {
-      "id": "4f8c1171bb2b0f28db0bb15df52d522031c774c20b6f45f7ed909c36e36792b5",
-      "source": "The Digital Ambler",
-      "title": "Official Release of the Hermetic Synaxis",
-      "url": "https://digitalambler.com/2026/11/13/official-release-of-the-hermetic-synaxis/",
-      "published": "2026-11-13T19:00:02+00:00"
-    },
-    {
-      "id": "1271e82c47d857fa49951a23ec265c4556ea7dcac2dba21b04a6d7b666e1b0e8",
-      "source": "Epicurious",
-      "title": "Maple Pumpkin Overnight Oats",
-      "url": "https://www.epicurious.com/recipes/food/views/ba-syn-maple-pumpkin-overnight-oats",
-      "published": "2026-11-12T13:00:00+00:00"
-    },
-    {
-      "id": "8f370ffc035addb44c2a7fdf760817bf701374d9b35fd6c0d47b9e3efa2e5a72",
-      "source": "Epicurious",
-      "title": "Homemade Dog Treats With Applesauce and Cheese",
-      "url": "https://www.epicurious.com/recipes/food/views/homemade-dog-treats",
-      "published": "2026-11-11T15:15:53+00:00"
-    },
-    {
-      "id": "8f1be5b6fc630b831f6610150bdc92b90a5f2b63c71349de573345ece54e060c",
-      "source": "Epicurious",
-      "title": "Anchovy-Garlic Pasta",
-      "url": "https://www.epicurious.com/recipes/food/views/ba-syn-4th-date-anchovy-garlic-pasta",
-      "published": "2026-11-09T11:00:00+00:00"
-    },
-    {
-      "id": "4295726bf2d31d9512aecd4e61c773629ef25e5a12523051f39d9992d519715d",
-      "source": "The Digital Ambler",
-      "title": "A Flag for Hermeticism",
-      "url": "https://digitalambler.com/2026/10/22/a-flag-for-hermeticism/",
-      "published": "2026-10-22T20:16:04+00:00"
+      "id": "716dc2a9a70db27428c9d0965d5c6f00fde0559612dfe3e03b43ded8f9b7b700",
+      "source": "Dark Readings",
+      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+      "published": "2026-11-27T14:00:00+00:00"
     }
   ]
 }

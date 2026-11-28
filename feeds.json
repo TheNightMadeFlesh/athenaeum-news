@@ -51,6 +51,150 @@
     {
       "name": "New Scientist",
       "url": "https://www.newscientist.com/section/news/feed/"
+    },
+    {
+      "name": "The Old Weird Albion",
+      "url": "https://oldweirdalbion.wordpress.com/feed/"
+    },
+    {
+      "name": "Folk Horror Revival",
+      "url": "https://folkhorrorrevival.com/feed/"
+    },
+    {
+      "name": "The Haunted Generation",
+      "url": "https://hauntedgeneration.co.uk/feed/"
+    },
+    {
+      "name": "Psychogeographic Review",
+      "url": "https://psychogeographicreview.com/feed/"
+    },
+    {
+      "name": "Wyrd Britain",
+      "url": "https://wyrdbritain.blogspot.com/feeds/posts/default?alt=rss"
+    },
+    {
+      "name": "Somewhere Without Horizons",
+      "url": "https://verityholloway.com/?feed=rss2"
+    },
+    {
+      "name": "Orbific Weblog",
+      "url": "https://orbific.com/feed/"
+    },
+    {
+      "name": "Hopeless Vendetta",
+      "url": "https://hopeless-maine.co.uk/feed/"
+    },
+    {
+      "name": "Scarfolk Council",
+      "url": "https://scarfolk.blogspot.com/feeds/posts/default?alt=rss"
+    },
+    {
+      "name": "Strange Horizons",
+      "url": "https://strangehorizons.com/wordpress/feed/"
+    },
+    {
+      "name": "Dark Readings",
+      "url": "https://www.darkreading.com/rss.xml"
+    },
+    {
+      "name": "Nautilus",
+      "url": "https://nautil.us/feed"
+    },
+    {
+      "name": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/feeds/latest"
+    },
+    {
+      "name": "Open Culture",
+      "url": "https://www.openculture.com/feed"
+    },
+    {
+      "name": "British Museum - Blog",
+      "url": "https://www.britishmuseum.org/articles/blog/feed"
+    },
+    {
+      "name": "V&A - Blog",
+      "url": "https://www.vam.ac.uk/blog/feed"
+    },
+     {
+      "name": "Museum of Witchcraft & Magic",
+      "url": "https://museumofwitchcraftandmagic.co.uk/news/feed/"
+    }, 
+    {
+      "name": "Unique Things",
+      "url": "https://unquietthings.com/feed/"
+    },
+     {
+      "name": "Cultura Obscura",
+      "url": "https://www.culturaobscura.com/feed/"
+    },
+     {
+      "name": "Technoccult",
+      "url": "https://www.technoccult.net/feed/"
+    },
+     {
+      "name": "Occult Libary - Blog",
+      "url": "https://www.occultlibrary.org/blog?format=rss"
+    },
+     {
+      "name": "Wicked Obscura",
+      "url": "https://www.wickedobscura.com/blog?format=rss"
+    },
+     {
+      "name": "Hacker Noon",
+      "url": "https://hackernoon.com/feed"
+    },
+     {
+      "name": "Deadline",
+      "url": "https://deadline.com/feed/"
+    },
+    {
+      "name": "Khan Academy",
+      "url": "https://blog.khanacademy.org/news/feed/"
+    },
+    {
+      "name": "Tiny Buddha",
+      "url": "https://tinybuddha.com/feed/"
+    },
+    {
+      "name": "National Marine Aquarium - Blog",
+      "url": "https://www.national-aquarium.co.uk/blog/feed"
+    },
+    {
+      "name": "Octopus Foundation",
+      "url": "https://octopusfoundation.org/en/feed/"
+    },
+    {
+      "name": "The Wildlife Trusts",
+      "url": "https://www.wildlifetrusts.org/news/all/rss.xml"
+    },
+    {
+      "name": "The Conversation",
+      "url": "https://theconversation.com/uk/articles.atom"
+    },
+    {
+      "name": "MarLIN News",
+      "url": "https://www.marlin.ac.uk/rss"
+    },
+    {
+      "name": "BigThink",
+      "url": "https://bigthink.com/feed/"
+    },
+    {
+      "name": "Octonation",
+      "url": "https://octonation.com/feed/"
+    },
+    {
+      "name": "Ocean Noise",
+      "url": "https://ocean-noise.com/feed/"
+    },
+    {
+      "name": "Sea Shepherd Conservation Society",
+      "url": "https://seashepherd.org/feed/"
+    },
+    {
+      "name": "Marine Conservation Institute",
+      "url": "https://marine-conservation.org/feed/"
     }
     
   ]

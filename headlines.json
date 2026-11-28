@@ -1,62 +1,90 @@
 {
-  "updated": "2026-11-28T02:40:59.414577+00:00",
-  "count": 92,
+  "updated": "2026-11-28T11:41:18.697307+00:00",
+  "count": 85,
   "articles": [
     {
-      "id": "f47712807e66e58b152fbc3283b2b80ed8e02f767f2b1bb7733eeaafdea09f5f",
-      "source": "MarLIN News",
-      "title": "Welcome to the new website",
-      "url": "https://www.marlin.ac.uk/news/article/101",
-      "published": "2026-11-28T02:40:52.792749+00:00"
+      "id": "90ae0bf4e3d86ad6778810948c881252c2851795156b51be435f8ccefade91ac",
+      "source": "Met Office - UK Severe Weather Warnings",
+      "title": "Yellow warning of rain affecting Wales",
+      "url": "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings#?date=2026-11-30&id=25d92ee0-e05e-47a5-8a0b-455707ea0dc5&referrer=rss",
+      "published": "2026-11-28T11:40:59.777575+00:00"
     },
     {
-      "id": "17ca4d3086281339e2b070cf64e40c72a786f78d46a09e563167048aff9f311d",
-      "source": "MarLIN News",
-      "title": "Updates January 2016",
-      "url": "https://www.marlin.ac.uk/news/article/102",
-      "published": "2026-11-28T02:40:52.792745+00:00"
-    },
-    {
-      "id": "f17c3816abd7bf52cf02ab20eb687a3efc93e710cb1d287249b41a6dbae95b7b",
+      "id": "3953d8b93f75f4995324d01fa436e75397712c20f3e95b00c704f612b4c804dc",
       "source": "BBC News",
-      "title": "Set time aside for children to read for pleasure, schools to be told",
-      "url": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-28T02:20:49+00:00"
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T11:35:34+00:00"
     },
     {
-      "id": "0ee5fced55f270a87e661eb5542f993b9141bedb59aa7bcabd3d8b0019f423ec",
-      "source": "Deadline",
-      "title": "Jermaine Haley Dies; WWE Star Known To Fans As Bronson Reed was 38",
-      "url": "https://deadline.com/2026/11/jermaine-haley-dies-wwe-bronson-reed-was-38-1237234503/",
-      "published": "2026-11-28T02:03:40+00:00"
-    },
-    {
-      "id": "1f82edb73d2d7fb0b1bf44f2715689eed6ead141d1dde08b91f880a3afb888f6",
+      "id": "679f7caa8a76461d8c4a978ad69750bb35ad0442dbb5433cb3adf0543994045e",
       "source": "The Guardian",
-      "title": "Aaron Rodgers texts into Amazon broadcast to defend himself as Steelers beat Broncos",
-      "url": "https://www.theguardian.com/sport/2026/nov/27/aaron-rodgers-texts-into-amazon-broadcast-to-defend-himself-as-steelers-beat-broncos",
-      "published": "2026-11-28T02:01:05+00:00"
+      "title": "Manchester United v Brentford buildup, Premier League news and more – matchday live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-buildup-premier-league-news-and-more-matchday-live",
+      "published": "2026-11-28T11:26:27+00:00"
     },
     {
-      "id": "ba81b558718f57a8fb2d01bd0888f2df8bd9d53af1c3f246a6b5e83905645c71",
-      "source": "The Guardian",
-      "title": "Could New Zealand head back to the polls? The new centrist party on the block holds the power| Lara Greaves",
-      "url": "https://www.theguardian.com/world/2026/nov/28/could-new-zealand-head-back-to-the-polls-the-new-centrist-party-on-the-block-holds-the-power",
-      "published": "2026-11-28T01:49:15+00:00"
-    },
-    {
-      "id": "bb0be17c4eefba01243166efa49996a77433ef80c5718645aab684ee39814449",
+      "id": "7479e0f80cfc2f0eb8fd8b5f243cfe137588e808878091311a37cc200a3c29a0",
       "source": "BBC News",
-      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-28T01:30:50+00:00"
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T11:18:37+00:00"
     },
     {
-      "id": "e852f75722b42eaddbb7b8376a535e1b912b1846f89116985000d79655d0f79d",
+      "id": "b40213c8f5805349fed541733dfd7fef350540a8e869a3caae718adcec273ddf",
+      "source": "The Guardian",
+      "title": "Spain to vote in election that could put far right in power for first time since Franco",
+      "url": "https://www.theguardian.com/world/2026/nov/28/spain-vote-election-could-far-right-power-first-time-franco",
+      "published": "2026-11-28T11:00:39+00:00"
+    },
+    {
+      "id": "10c0aabe529c4a5fc5c132e6665d4b762d28f09f4c7874373c5389d6f375eb6e",
+      "source": "Bon Appetit",
+      "title": "Sacha Beef",
+      "url": "https://www.bonappetit.com/recipe/sacha-beef",
+      "published": "2026-11-28T11:00:00+00:00"
+    },
+    {
+      "id": "b7abc0e8004ca3f0e01ef52a7544cfd1ec18ec8afa390f0f7e4b5e6619b2d6f9",
+      "source": "The Conversation",
+      "title": "SpaceX plans to launch a million new satellites – but their environmental impact has barely been assessed",
+      "url": "https://theconversation.com/spacex-plans-to-launch-a-million-new-satellites-but-their-environmental-impact-has-barely-been-assessed-297767",
+      "published": "2026-11-28T10:44:20+00:00"
+    },
+    {
+      "id": "509b92f7a701de7ccb2b1c28de32381568730898a4a0d4a1c81d7fee560a8c80",
       "source": "Deadline",
-      "title": "NBC Pulls Ad That Criticizes U.S.’ Israel Policy & Aired During ‘SNL’ Thanksgiving Special",
-      "url": "https://deadline.com/2026/11/nbc-pulls-ad-israel-gaza-1237234472/",
-      "published": "2026-11-28T01:02:47+00:00"
+      "title": "Channel 4 Defends Huw Edwards Doc After Government Criticism: “There Is Clear Public Interest In Confronting Him With Questions”",
+      "url": "https://deadline.com/2026/11/channel-4-responds-huw-edwards-doc-government-criticism-1237234520/",
+      "published": "2026-11-28T10:07:17+00:00"
+    },
+    {
+      "id": "c281b48f5789f8c1d361d4f158140c2711917d46dccd3926f66295a0bd9272ec",
+      "source": "Hacker Noon",
+      "title": "Moving Proof-of-Assay’s Explanation Layer to Nosana With Ollama and Qwen2.5",
+      "url": "https://hackernoon.com/moving-proof-of-assays-explanation-layer-to-nosana-with-ollama-and-qwen25?source=rss",
+      "published": "2026-11-28T09:00:08+00:00"
+    },
+    {
+      "id": "9f9dbf8eef90cffa07ef8c420a7afc8ab69a71c97bf08936ad8a7d1567b51140",
+      "source": "New Scientist",
+      "title": "CRISPR is now being used to control genes, not just edit them",
+      "url": "https://www.newscientist.com/article/2601111-crispr-is-now-being-used-to-control-genes-instead-of-editing-them/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "published": "2026-11-28T09:00:00+00:00"
+    },
+    {
+      "id": "c797c50d99332724004a59b5b1cadbd028bc0c71fd4a84e088cee11afe7eef17",
+      "source": "Hacker Noon",
+      "title": "I Tested Google's ARTEMIS: Can AI Agents Really Automate Android Testing?",
+      "url": "https://hackernoon.com/i-tested-googles-artemis-can-ai-agents-really-automate-android-testing?source=rss",
+      "published": "2026-11-28T04:00:03+00:00"
+    },
+    {
+      "id": "9042f1b0129aed044aa48b4c6da7b4fa05c905cc05580be5b0fed23183a555cf",
+      "source": "Deadline",
+      "title": "BET Announces New Chaka Khan Humanitarian Prize At Friday’s Soul Train Awards",
+      "url": "https://deadline.com/2026/11/bet-announces-new-chaka-khan-humanitarian-award-1237234511/",
+      "published": "2026-11-28T03:43:24+00:00"
     },
     {
       "id": "a0797d798a1179304c0d3fe97d26978e6542a4ceb79e1372307cd7b3f579b0a9",
@@ -66,32 +94,11 @@
       "published": "2026-11-28T00:07:00+00:00"
     },
     {
-      "id": "8ef29e4f22b1908e50d77c31d828c0e14eb6c11d6d4596bd65cf16aff6af5474",
-      "source": "Bon Appetit",
-      "title": "16 Best Black Friday Air Fryer Deals for Crisping on the Cheap (2026)",
-      "url": "https://www.bonappetit.com/story/black-friday-air-fryer-deals-11-27-2026",
-      "published": "2026-11-27T23:32:00+00:00"
-    },
-    {
       "id": "542d05b19747a2966be677b0ac38126635c2785260f687525255369ce2caf850",
       "source": "The Wild Hunt",
       "title": "The Shining and Spirits of Place",
       "url": "https://wildhunt.org/2026/11/the-shining-and-spirits-of-place.html?utm_source=rss&utm_medium=rss&utm_campaign=the-shining-and-spirits-of-place",
       "published": "2026-11-27T22:00:51+00:00"
-    },
-    {
-      "id": "cda6c0f329b404aa3bb83d76c74a15e3ab3d883d4ed631bac53f623b87cbb914",
-      "source": "Hacker Noon",
-      "title": "BASIS Opens First-Round Applications for Card Offering Cashback in the Asset Spent",
-      "url": "https://hackernoon.com/basis-opens-first-round-applications-for-card-offering-cashback-in-the-asset-spent?source=rss",
-      "published": "2026-11-27T21:46:21+00:00"
-    },
-    {
-      "id": "8e24c4bfb2606e64e495efa10ce269f94743ae9789b25c958ddb5a00d0123c79",
-      "source": "Hacker Noon",
-      "title": "170 Blog Posts To Learn About Crypto Wallet",
-      "url": "https://hackernoon.com/170-blog-posts-to-learn-about-crypto-wallet?source=rss",
-      "published": "2026-11-27T21:01:22+00:00"
     },
     {
       "id": "bf26990048dcdc455feb72bbbd658f43bb190cdd36cc38676d9ede60ba8df2ad",
@@ -120,13 +127,6 @@
       "title": "The best Black Friday deals Ars could find",
       "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
       "published": "2026-11-27T17:05:37+00:00"
-    },
-    {
-      "id": "d1eeee888932454566611df9a72c5a1e085c555779e0d9dcf3291d94cec31f27",
-      "source": "The Conversation",
-      "title": "How the UK’s net migration figure hit its target after years of government promises",
-      "url": "https://theconversation.com/how-the-uks-net-migration-figure-hit-its-target-after-years-of-government-promises-297787",
-      "published": "2026-11-27T16:38:50+00:00"
     },
     {
       "id": "d40077cfa5619c5ea81249904fdc42e17688a5f895e70df65cb10bdf77925a20",
@@ -183,13 +183,6 @@
       "title": "Listen to the Music of the Ancient World: From 40,000-Year-Old Flutes to Ancient Greek Songs",
       "url": "https://www.openculture.com/2026/11/listen-to-the-music-of-the-ancient-world-from-40000-year-old-flutes-to-ancient-greek-songs.html",
       "published": "2026-11-27T09:00:26+00:00"
-    },
-    {
-      "id": "d249369af23d2fd2a1a5573e65fac0ae75aac0712bd4e8a5ea7f7527d1a43ec5",
-      "source": "New Scientist",
-      "title": "Particles not seen before have been observed in a quantum simulator",
-      "url": "https://www.newscientist.com/article/2600979-particles-not-seen-before-have-been-observed-in-a-quantum-simulator/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-      "published": "2026-11-27T09:00:00+00:00"
     },
     {
       "id": "abbb01bf4a3bd04f8240b2f6da6c4fea5fdbd331716bb6e7575637db61084a1f",
@@ -304,13 +297,6 @@
       "published": "2026-11-24T16:34:57+00:00"
     },
     {
-      "id": "a5e26e5837a0669d8b2870582cfd16485732c8d917e6e063f27204ccf3b6b487",
-      "source": "Hopeless Vendetta",
-      "title": "Men at Work",
-      "url": "https://hopeless-maine.co.uk/2026/11/24/men-at-work/",
-      "published": "2026-11-24T09:00:00+00:00"
-    },
-    {
       "id": "f759bd24a86811d9c044f407fcaae3ef9a2712e19e031ce6f6c7ea2d170e53d8",
       "source": "Khan Academy",
       "title": "Texas Approves Khan Academy TEKS Algebra I. Here’s What It Means for Districts",
@@ -358,13 +344,6 @@
       "title": "Same Wrong Answer, Different Reasons: Why Student Thinking Matters.",
       "url": "https://blog.khanacademy.org/explain-your-thinking-wrong-answers/",
       "published": "2026-11-17T15:36:34+00:00"
-    },
-    {
-      "id": "ef4a645244e1d7bb5a2939001588b552a7914905d1eca2e91f95104783b530c5",
-      "source": "Hopeless Vendetta",
-      "title": "The Other Shore",
-      "url": "https://hopeless-maine.co.uk/2026/11/17/the-other-shore/",
-      "published": "2026-11-17T09:00:00+00:00"
     },
     {
       "id": "d7479eac5379038a32dc7dd6e2bb58add54b01e1b7627a136d191dbba8255b09",
@@ -514,25 +493,11 @@
       "published": "2026-09-09T13:23:02+00:00"
     },
     {
-      "id": "f22741573d2d1ab9dccc0ee3b8ea9498629cc449c084341b4d524860f96c36b0",
-      "source": "Octonation",
-      "title": "Can an Octopus Imagine? Creativity in Deception and Problem-Solving",
-      "url": "https://octonation.com/can-an-octopus-imagine/",
-      "published": "2026-09-08T18:11:07+00:00"
-    },
-    {
       "id": "6fd99d65214da0c9c3c29e18c2cbb438a02a8d3c6af56319f549354d723629bc",
       "source": "Occult Libary - Blog",
       "title": "A Cauldron Conversation with Ben Pitcher",
       "url": "https://www.occultlibrary.org/blog/september-2026-1",
       "published": "2026-09-01T05:00:53+00:00"
-    },
-    {
-      "id": "e30827664d218e5fc7b7c2f0237bc4ff68d9c0bd880283d9e576eb4b0ddc27f9",
-      "source": "Museum of Witchcraft & Magic",
-      "title": "NO PARKING AT MUSEUM",
-      "url": "https://museumofwitchcraftandmagic.co.uk/news/no-parking-at-museum/#utm_source=rss&utm_medium=rss",
-      "published": "2026-07-26T10:45:35+00:00"
     },
     {
       "id": "f72c358a4360e540f98007f292da0c8cd49ee9546c37b38d9dc6f7088ab79866",
@@ -556,13 +521,6 @@
       "published": "2026-05-31T17:06:40+00:00"
     },
     {
-      "id": "0776a6fb19fd6acaf9a4b3b6fdadaa769306acebe15d675f89c41609601b088a",
-      "source": "Octonation",
-      "title": "Octopus Anatomy: External and Internal Body Parts of the Octopus",
-      "url": "https://octonation.com/octopus-anatomy/",
-      "published": "2026-05-01T20:57:14+00:00"
-    },
-    {
       "id": "6305cabc97b3177e5da3f061f49f7919921e7048a85d0d2432bef37a0bb1ea8e",
       "source": "Psychogeographic Review",
       "title": "The Cracker Factory by Joyce Rebeta-Burditt",
@@ -582,13 +540,6 @@
       "title": "Corridor of Life ☀️❄️Solstice Charity Donation 2024❄️☀️",
       "url": "https://folkhorrorrevival.com/2024/12/21/corridor-of-life-%e2%98%80%ef%b8%8f%e2%9d%84%ef%b8%8fsolstice-charity-donation-2024%e2%9d%84%ef%b8%8f%e2%98%80%ef%b8%8f/",
       "published": "2024-12-21T20:40:41+00:00"
-    },
-    {
-      "id": "b036b9d20867b05acaed3bd0ba8c37cbeedda20605c2c3fa4a41f9be87a8e59f",
-      "source": "Museum of Witchcraft & Magic",
-      "title": "Protected: WhiteFeather Hunter",
-      "url": "https://museumofwitchcraftandmagic.co.uk/news/whitefeather/#utm_source=rss&utm_medium=rss",
-      "published": "2022-10-14T12:54:52+00:00"
     },
     {
       "id": "7379228c4ce728f85929655db6b9e6572110065493b4354042400fec0aa4f7af",

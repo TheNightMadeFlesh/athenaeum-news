@@ -11,8 +11,8 @@ import requests
 # CONFIGURATION
 # ----------------------------------------
 
-MAX_HEADLINES = 30
-MAX_PER_SOURCE = 3
+MAX_HEADLINES = 100
+MAX_PER_SOURCE = 2
 
 FEEDS_FILE = "feeds.json"
 OUTPUT_FILE = "headlines.json"
